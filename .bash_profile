@@ -39,10 +39,6 @@ if [ -f /usr/local/etc/bash_completion ]; then
   . /usr/local/etc/bash_completion
 fi
 
-if [ -f ~/.ssh/id_rsa ]; then
-    ssh-add ~/.ssh/id_rsa
-fi
-
 # Fix for "__git_ps1: command not found" (http://stackoverflow.com/questions/10435117/ps1-env-variable-does-not-work-on-mac)
 source /usr/local/git/contrib/completion/git-completion.bash
 source /usr/local/git/contrib/completion/git-prompt.sh
