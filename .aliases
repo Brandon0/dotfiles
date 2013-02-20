@@ -17,6 +17,7 @@ alias m="mate ."
 alias s="subl ."
 alias o="open"
 alias oo="open ."
+alias www="cd /www"
 
 alias hist='history | grep $1' #Requires one input
 
