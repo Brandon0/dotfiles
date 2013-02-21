@@ -82,14 +82,14 @@ Following are notes specific to individual linters that you should be aware of:
 
       "sublimelinter_syntax_map":
       {
-	"Python Django": "python",
-	"Ruby on Rails": "ruby",
-	"C++": "c_cpplint",
-	"C": "c_cpplint"
+        "Python Django": "python",
+        "Ruby on Rails": "ruby",
+        "C++": "c_cpplint",
+        "C": "c_cpplint"
       },
       "sublimelinter_executable_map":
       {
-	"c_cpplint": "/Users/[my username]/Desktop/cpplint.py"
+        "c_cpplint": "/Users/[my username]/Desktop/cpplint.py"
       }
 
 * **CSS** - This linter runs [csslint](http://csslint.net). This linter requires a Javascript engine (like Node.js) to be installed (see notes above for the JavaScript linters: "jshint" or "jslint").
@@ -148,7 +148,7 @@ For example, let's say we are editing a Java project and want to use the "java" 
         {
             "SublimeLinter":
             {
-                "java":
+                "Java":
                 {
                     "working_directory": "/Users/aparajita/Projects/foo",
 
@@ -216,7 +216,7 @@ to your theme (adapting the color to your liking):
         <key>name</key>
         <string>SublimeLinter Annotations</string>
         <key>scope</key>
-        <string>sublimelinter.notes</string>
+        <string>sublimelinter.annotations</string>
         <key>settings</key>
         <dict>
             <key>background</key>
