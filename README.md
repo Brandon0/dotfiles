@@ -24,22 +24,6 @@ Alternatively, to update while avoiding the confirmation prompt:
 ./bootstrap.sh -f
 ```
 
-### BASH 4
-
-Some features depend on bash version 4. Install by running .brew
-
-```bash
-./.brew
-```
-
-### Sensible OS X defaults
-
-When setting up a new Mac, you may want to set some sensible OS X defaults:
-
-```bash
-./.osx
-```
-
 ## More help
 
-Check out [this blog post about my development environment](http://vanderveer.be/blog/2012/04/21/setting-up-my-perfect-developer-environment-on-osx-10-dot-8-mountain-lion-dp3-edition/) where i detail how i use this repo.
+Check out [this blog post about my development environment](http://vanderveer.be/blog/2012/04/21/setting-up-my-perfect-developer-environment-on-osx-10-dot-8-mountain-lion-dp3-edition/) where Marthias details how he uses this repo.
