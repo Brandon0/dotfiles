@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Slush & Poppies.tmTheme",
+	"color_scheme": "Packages/User/Slush & Poppies.tmTheme",
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -12,6 +12,7 @@
 	],
 	"soda_classic_tabs": true,
 	"theme": "Soda Light.sublime-theme",
+	"trailing_spaces_highlight_color": "trailing_whitespace",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

@@ -1,9 +1,11 @@
 {
 	"installed_packages":
 	[
+		"Goto Documentation",
 		"Package Control",
 		"Phix Color Scheme",
 		"SublimeLinter",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TrailingSpaces"
 	]
 }
