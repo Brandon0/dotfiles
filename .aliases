@@ -8,7 +8,7 @@ alias -- -="cd -"
 
 # Shortcuts
 alias d="cd ~/Documents/Dropbox"
-alias p="cd ~/Documents/Projects"
+alias p="cd ~/Projects"
 alias g="git"
 alias s="sublime ."
 alias o="open"
