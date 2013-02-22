@@ -1,9 +1,17 @@
 {
-	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Slush & Poppies.tmTheme",
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"margin": 0,
+	"rulers":
+	[
+		80
+	],
 	"soda_classic_tabs": true,
-	"theme": "Soda Light.sublime-theme"
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
