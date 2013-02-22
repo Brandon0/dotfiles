@@ -14,4 +14,4 @@ Thumbs.db
 .Trashes
 
 # Sublime Text 2 cache files
-.cache
+*.cache
