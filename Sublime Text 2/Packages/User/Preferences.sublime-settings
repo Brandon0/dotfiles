@@ -1,6 +1,19 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Slush & Poppies.tmTheme",
+	"file_exclude_patterns":
+	[
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".git"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 13.0,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -11,6 +24,7 @@
 		80
 	],
 	"soda_classic_tabs": true,
+	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
 	"trailing_spaces_highlight_color": "trailing_whitespace",
 	"translate_tabs_to_spaces": true,
