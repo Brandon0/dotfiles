@@ -1,9 +1,12 @@
 {
 	"installed_packages":
 	[
+		"DocBlockr",
 		"Goto Documentation",
 		"Package Control",
 		"Phix Color Scheme",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Theme - Soda",
 		"TrailingSpaces"
