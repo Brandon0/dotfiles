@@ -13,5 +13,6 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 
-# Sublime Text 2 cache files
+# Sublime Text 2s
 *.cache
+*.last-run
