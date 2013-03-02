@@ -1,7 +1,6 @@
 {
-	"auto_complete_commit_on_tab": false,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Slush & Poppies.tmTheme",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"file_exclude_patterns":
 	[
 		".DS_Store"
@@ -28,10 +27,10 @@
 	"scroll_past_end": true,
 	"soda_classic_tabs": true,
 	"tab_size": 4,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Soda Dark.sublime-theme",
 	"trailing_spaces_highlight_color": "trailing_whitespace",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"word_wrap": false
+	"word_wrap": "false"
 }
