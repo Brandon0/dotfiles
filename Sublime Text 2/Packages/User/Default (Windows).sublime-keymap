@@ -5,5 +5,14 @@
     { "keys": ["alt+f2"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
 
     { "keys": ["ctrl+keypad0"], "command": "focus_side_bar" },
-    { "keys": ["ctrl+keypad_period"], "command": "focus_group", "args": { "group": 0 } }
+    { "keys": ["ctrl+keypad_period"], "command": "focus_group", "args": { "group": 0 } },
+
+    { "keys": ["ctrl+o"],
+        "command": "side_bar_open_in_browser" ,
+        "args":{"paths":[], "type":"testing"}
+    },
+    { "keys": ["shift+ctrl+o"],
+        "command": "side_bar_open_in_browser",
+        "args":{"paths":[], "type":"production"}
+    }
 ]

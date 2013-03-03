@@ -1,8 +1,10 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"DocBlockr",
 		"Goto Documentation",
+		"jQuery",
 		"Package Control",
 		"Prefixr",
 		"SideBarEnhancements",
