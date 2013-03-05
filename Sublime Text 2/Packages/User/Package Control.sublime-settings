@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"ApacheConf.tmLanguage",
 		"DocBlockr",
 		"Goto Documentation",
 		"jQuery",
