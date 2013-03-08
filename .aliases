@@ -110,13 +110,5 @@ alias stfu="osascript -e 'set volume 0'"
 alias pumpitup="osascript -e 'set volume 7'"
 alias hax="growlnotify -a 'Activity Monitor' 'System error' -m 'WTF R U DOIN'"
 
-# Open a manpage in Preview, which can be saved to PDF
-function pman {
-   man -t "${1}" | open -f -a /Applications/Preview.app
-}
-if [[ "$OSTYPE" == "darwin"* ]]; then
-    alias man="pman"
-fi
-
 alias kd="cd /opt/kDeploy/tools"
 alias ks="cd /opt/kServer"
