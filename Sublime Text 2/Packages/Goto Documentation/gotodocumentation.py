@@ -26,7 +26,6 @@ def _make_text_safeish(text, fallback_encoding, method='decode'):
     # distinctly non-ideal... and there's no way to tell what's coming out of
     # git in output. So...
     try:
-<<<<<<< HEAD
         unitext = getattr(text, method)('utf-8')
     except (UnicodeEncodeError, UnicodeDecodeError):
         unitext = getattr(text, method)(fallback_encoding)
@@ -34,15 +33,6 @@ def _make_text_safeish(text, fallback_encoding, method='decode'):
         # strongly implies we're already unicode, but just in case let's cast
         # to string
         unitext = str(text)
-=======
-	unitext = getattr(text, method)('utf-8')
-    except (UnicodeEncodeError, UnicodeDecodeError):
-	unitext = getattr(text, method)(fallback_encoding)
-    except AttributeError:
-	# strongly implies we're already unicode, but just in case let's cast
-	# to string
-	unitext = str(text)
->>>>>>> ST2: Auto updates
     return unitext
 
 
@@ -125,18 +115,16 @@ class GotoDocumentationCommand(sublime_plugin.TextCommand):
     def cmake_doc(self, keyword, scope):
         open_url('http://cmake.org/cmake/help/v2.8.8/cmake.html#command:%s' % keyword.lower())
 
+    def perl_doc(self, keyword, scope):
+        open_url("http://perldoc.perl.org/search.html?q=%s" % keyword)
+
     def run_command(self, command, callback=None, **kwargs):
         if not callback:
-<<<<<<< HEAD
             callback = self.panel
-=======
-	    callback = self.panel
->>>>>>> ST2: Auto updates
         thread = CommandThread(command, callback, **kwargs)
         thread.start()
 
     def panel(self, output, **kwargs):
-<<<<<<< HEAD
         active_window = sublime.active_window()
         if not hasattr(self, 'output_view'):
             self.output_view = active_window.get_output_panel("gotodocumentation")
@@ -147,30 +135,11 @@ class GotoDocumentationCommand(sublime_plugin.TextCommand):
         })
         self.output_view.set_read_only(True)
         active_window.run_command("show_panel", {"panel": "output.gotodocumentation"})
-=======
-	active_window = sublime.active_window()
-        if not hasattr(self, 'output_view'):
-	    self.output_view = active_window.get_output_panel("gotodocumentation")
-        self.output_view.set_read_only(False)
-	self.output_view.run_command('goto_documentation_output', {
-	    'output': output,
-	    'clear': True
-	})
-        self.output_view.set_read_only(True)
-	active_window.run_command("show_panel", {"panel": "output.gotodocumentation"})
->>>>>>> ST2: Auto updates
 
 
 class GotoDocumentationOutputCommand(sublime_plugin.TextCommand):
     def run(self, edit, output = '', output_file = None, clear = False):
-<<<<<<< HEAD
         if clear:
             region = sublime.Region(0, self.view.size())
             self.view.erase(edit, region)
         self.view.insert(edit, 0, output)
-=======
-	if clear:
-	    region = sublime.Region(0, self.view.size())
-	    self.view.erase(edit, region)
-	self.view.insert(edit, 0, output)
->>>>>>> ST2: Auto updates
