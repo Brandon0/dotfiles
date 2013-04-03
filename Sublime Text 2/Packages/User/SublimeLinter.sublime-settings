@@ -5,13 +5,18 @@
         with the outline color, and "none" disables all outline styles
         (useful if "sublimelinter_gutter_marks" is set).
     */
-    "sublimelinter_mark_style": "fill",
+    "sublimelinter_mark_style": "outline",
 
     // If true, lines with errors or warnings will have a gutter mark.
     "sublimelinter_gutter_marks": true,
 
     // If true, when the file is saved any errors will appear in a popup list
     "sublimelinter_popup_errors_on_save": true,
+
+    "sublimelinter_executable_map":
+    {
+        "javascript": "C:\\Program Files\\nodejs\\node.exe"
+    },
 
     "javascript_linter": "jshint",
     "jshint_options":
