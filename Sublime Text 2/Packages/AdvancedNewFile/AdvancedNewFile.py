@@ -45,7 +45,11 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
         settings = get_settings(self.view)
         self.aliases = self.get_aliases(settings)
         self.show_path = settings.get("show_path")
+<<<<<<< HEAD
         self.auto_refresh_sidebar = settings.get("auto_refresh_sidebar")
+=======
+	self.auto_refresh_sidebar = settings.get("auto_refresh_sidebar")
+>>>>>>> ST2: Auto-updates
         self.default_folder_index = settings.get("default_folder_index")
         self.alias_folder_index = settings.get("alias_folder_index")
         default_root = self.get_default_root(settings.get("default_root"))
@@ -95,7 +99,11 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
         if string == "home":
             root = "~/"
         elif string == "current":
+<<<<<<< HEAD
             root = self.top_level_split_char
+=======
+	    root = self.top_level_split_char
+>>>>>>> ST2: Auto-updates
         elif string == "project_folder":
             if is_alias:
                 folder_index = self.alias_folder_index
@@ -129,6 +137,7 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
 
             # Parse if alias
             if self.top_level_split_char in path and root == None:
+<<<<<<< HEAD
                 parts = path.rsplit(self.top_level_split_char, 1)
                 root, path = self.translate_alias(parts[0])
                 path_list = []
@@ -137,13 +146,27 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
                 if parts[1] != "":
                     path_list.append(parts[1])
                 path = self.top_level_split_char.join(path_list)
+=======
+		parts = path.rsplit(self.top_level_split_char, 1)
+		root, path = self.translate_alias(parts[0])
+		path_list = []
+		if path != "":
+		    path_list.append(path)
+		if parts[1] != "":
+		    path_list.append(parts[1])
+		path = self.top_level_split_char.join(path_list)
+>>>>>>> ST2: Auto-updates
             # Parse if tilde used
             elif re.match(HOME_REGEX, path) and root == None:
                 root = os.path.expanduser("~")
                 path = path[2:]
 
             # Default
+<<<<<<< HEAD
             if root == None:
+=======
+	    if root == None:
+>>>>>>> ST2: Auto-updates
                 if is_alias:
                     root = self.alias_root
                     folder_index = self.alias_folder_index
@@ -157,12 +180,18 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
 
     def translate_alias(self, path):
         root = None
+<<<<<<< HEAD
         split_path = None
         if path == "" and self.view is not None:
+=======
+	split_path = None
+	if path == "" and self.view is not None:
+>>>>>>> ST2: Auto-updates
             filename = self.view.file_name()
             if filename is not None:
                 root = os.path.dirname(filename)
         else:
+<<<<<<< HEAD
             split_path = path.split(self.top_level_split_char)
             join_index = len(split_path) - 1
             target = path
@@ -203,6 +232,48 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
             # Add to index so we re
             join_index += 2
             return os.path.abspath(root), self.top_level_split_char.join(split_path[join_index:])
+=======
+	    split_path = path.split(self.top_level_split_char)
+	    join_index = len(split_path) - 1
+	    target = path
+	    root_found = False
+	    while join_index >= 0 and not root_found:
+		# Folder aliases
+		for folder in self.window.folders():
+		    basename = os.path.basename(folder)
+		    if basename == target:
+			root = folder
+			root_found = True
+			break
+		# Aliases from settings.
+		for alias in self.aliases.keys():
+		    if alias == target:
+			alias_path = self.aliases.get(alias)
+			if re.search(HOME_REGEX, alias_path) is None:
+			    if self.PLATFORM == "windows":
+				if re.search(WIN_ROOT_REGEX, alias_path) is None:
+				    root = os.path.join(self.alias_root, alias_path)
+				    break
+			    else:
+				if re.search(NIX_ROOT_REGEX, alias_path) is None:
+				    root = os.path.join(self.alias_root, alias_path)
+				    break
+			root = os.path.expanduser(alias_path)
+			root_found = True
+			break
+		remove = re.escape(split_path[join_index])
+		target = re.sub(r":%s$" % remove, "", target)
+		join_index -= 1
+
+        if root is None:
+	    return None, path
+	elif split_path is None:
+	    return os.path.abspath(root), ""
+	else:
+	    # Add to index so we re
+	    join_index += 2
+	    return os.path.abspath(root), self.top_level_split_char.join(split_path[join_index:])
+>>>>>>> ST2: Auto-updates
 
     def show_filename_input(self, initial=''):
         caption = 'Enter a path for a new file'
@@ -243,10 +314,17 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
     def generate_creation_path(self, base, path):
         if self.PLATFORM == "windows":
             if not re.match(WIN_ROOT_REGEX, base):
+<<<<<<< HEAD
                 return base + self.top_level_split_char + path
         else:
             if not re.match(NIX_ROOT_REGEX, base):
                 return base + self.top_level_split_char + path
+=======
+		return base + self.top_level_split_char + path
+        else:
+            if not re.match(NIX_ROOT_REGEX, base):
+		return base + self.top_level_split_char + path
+>>>>>>> ST2: Auto-updates
 
         return os.path.abspath(os.path.join(base, path))
 
@@ -277,10 +355,17 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
             if not os.path.exists(file_path):
                 try:
                     self.create(file_path)
+<<<<<<< HEAD
                 except OSError as e:
                     attempt_open = False
                     sublime.error_message("Cannot create '" + file_path + "'. See console for details")
                     logger.error("Exception: %s '%s'" % (e.strerror, e.filename))
+=======
+		except OSError as e:
+                    attempt_open = False
+                    sublime.error_message("Cannot create '" + file_path + "'. See console for details")
+		    logger.error("Exception: %s '%s'" % (e.strerror, e.filename))
+>>>>>>> ST2: Auto-updates
             if attempt_open:
                 if os.path.isdir(file_path):
                     if not re.search(r"(/|\\)$", file_path):
@@ -288,6 +373,7 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
                 else:
                     self.window.open_file(file_path)
         self.clear()
+<<<<<<< HEAD
         self.refresh_sidebar()
 
     def refresh_sidebar(self):
@@ -296,6 +382,16 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
                 self.window.run_command("refresh_folder_list")
             except:
                 pass
+=======
+	self.refresh_sidebar()
+
+    def refresh_sidebar(self):
+	if self.auto_refresh_sidebar:
+	    try:
+		self.window.run_command("refresh_folder_list")
+	    except:
+		pass
+>>>>>>> ST2: Auto-updates
 
 
     def clear(self):
@@ -310,11 +406,19 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
             open(os.path.join(base, filename), "a").close()
 
     def create_folder(self, path):
+<<<<<<< HEAD
         try:
             os.makedirs(path)
         except OSError as ex:
             if ex.errno != errno.EEXIST:
                 raise
+=======
+	try:
+	    os.makedirs(path)
+	except OSError as ex:
+	    if ex.errno != errno.EEXIST:
+		raise
+>>>>>>> ST2: Auto-updates
         if self.is_python:
             open(os.path.join(base, '__init__.py'), 'a').close()
 
@@ -410,8 +514,11 @@ class PathAutocomplete(sublime_plugin.EventListener):
         if directory == "" and pac.default_root:
             # Project folders
             sugg, sugg_w_spaces = self.generate_project_auto_complete(base)
-            suggestions += sugg
-            suggestions_w_spaces += sugg_w_spaces
+
+	    # Only add folder alias if more than 1 exist.
+	    if len(sugg) + len(sugg_w_spaces) > 1 or prefix != "":
+		suggestions += sugg
+		suggestions_w_spaces += sugg_w_spaces
             # Aliases
             sugg, sugg_w_spaces = self.generate_alias_auto_complete(base)
             suggestions += sugg

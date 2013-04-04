@@ -116,7 +116,11 @@ class GotoDocumentationCommand(sublime_plugin.TextCommand):
         open_url('http://cmake.org/cmake/help/v2.8.8/cmake.html#command:%s' % keyword.lower())
 
     def perl_doc(self, keyword, scope):
+<<<<<<< HEAD
         open_url("http://perldoc.perl.org/search.html?q=%s" % keyword)
+=======
+	open_url("http://perldoc.perl.org/search.html?q=%s" % keyword)
+>>>>>>> ST2: Auto-updates
 
     def run_command(self, command, callback=None, **kwargs):
         if not callback:
@@ -142,4 +146,8 @@ class GotoDocumentationOutputCommand(sublime_plugin.TextCommand):
         if clear:
             region = sublime.Region(0, self.view.size())
             self.view.erase(edit, region)
+<<<<<<< HEAD
         self.view.insert(edit, 0, output)
+=======
+	self.view.insert(edit, 0, output)
+>>>>>>> ST2: Auto-updates
