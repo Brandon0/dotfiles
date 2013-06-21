@@ -35,10 +35,11 @@ complete -W "NSGlobalDomain" defaults
 # Add `killall` tab completion for common apps
 complete -o "nospace" -W "Finder Dock Mail Safari iTunes iCal Address\ Book SystemUIServer" killall
 
-if [ -f /usr/local/etc/bash_completion ]; then
-  . /usr/local/etc/bash_completion
+if [ -f `brew --prefix`/etc/bash_completion.d/git-prompt.sh ]; then
+	. `brew --prefix`/etc/bash_completion.d/git-prompt.sh
 fi
 
 # Fix for "__git_ps1: command not found" (http://stackoverflow.com/questions/10435117/ps1-env-variable-does-not-work-on-mac)
-source /usr/local/git/contrib/completion/git-completion.bash
-source /usr/local/git/contrib/completion/git-prompt.sh
+#source /usr/local/git/contrib/completion/git-completion.bash
+#source /usr/local/git/contrib/completion/git-prompt.sh
+#alias __git_ps1="git branch 2>/dev/null | grep '*' | sed 's/* \(.*\)/(\1)/'"
