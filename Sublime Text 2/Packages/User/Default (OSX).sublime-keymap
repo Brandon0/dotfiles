@@ -10,6 +10,7 @@
     { "keys": ["alt+f12"],
         "command": "side_bar_open_in_browser",
         "args":{"paths":[], "type":"production"}
-    }
+    },
+    { "keys": ["super+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} }
 
 ]
