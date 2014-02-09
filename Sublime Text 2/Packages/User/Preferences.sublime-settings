@@ -14,12 +14,14 @@
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 14.0,
+	"hayaku_CSS_units_for_unitless_numbers": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"SublimeCodeIntel"
 	],
 	"margin": 0,
 	"reveal-on-activate": true,
