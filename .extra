@@ -5,7 +5,8 @@ for another_bin in \
 do
     [[ -e $another_bin ]] && export PATH=$another_bin:$PATH
 done
-export PATH=/usr/local/bin:/usr/local/sbin:$PATH
+#export PATH=/usr/local/bin:/usr/local/sbin:$PATH
+export PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin/npm:$PATH
 
 # Git credentials
 GIT_AUTHOR_NAME="Brandon Kahre"
