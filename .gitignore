@@ -16,4 +16,5 @@ Thumbs.db
 # Sublime Text 2s
 *.cache
 *.last-run
+*.sublime_license
 *.sublime_session
