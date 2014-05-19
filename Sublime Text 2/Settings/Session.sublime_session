@@ -1,35 +1,784 @@
 {
 	"folder_history":
 	[
+		"/P/",
+		"/C/Users/brandon.kahre/Documents/GitHub/vmwarephp",
+		"/C/Users/brandon.kahre/Documents/GitHub/vmwarephp/library",
+		"/M/html",
+		"/C/www/htdocs/angular/angular-phonecat",
+		"/C/www/htdocs/splenum",
+		"/N/lib/Service/Report/Rounds",
+		"/O/",
+		"/N/tests",
+		"/N/lib/Monolog",
+		"/N/lib/Monolog/Handler",
+		"/N/lib/Service/ErrorLog/Handler",
+		"//10.255.4.245/test",
+		"/C/www/htdocs",
+		"/C/Users/brandon.kahre/Documents/GitHub/raintpl",
+		"/C/Users/brandon.kahre/Documents/GitHub/monolog",
+		"/C/www/htdocs/marc-mabe_php-enum/src/MabeEnum",
+		"/N/lib",
+		"/M/html/_includes/classes/PHPExcel",
+		"/M/html/_includes",
+		"/M/cron",
+		"/C/www/htdocs/docusign-tools",
+		"/C/www/htdocs/peak10api/old rounds reports",
+		"//10.255.4.245/api_etc/smarty/templates",
+		"//10.255.4.245/api_etc",
+		"/C/www/htdocs/peak10api",
+		"//10.255.4.233/peak10api_etc",
+		"/C/www/htdocs/Smarty-3.1.16/libs",
+		"/N/lib/PeakAPI/Controller/Report",
+		"/C/www/htdocs/Smarty-3.1.16",
+		"/C/www/htdocs/raintpl-v.2.7.2",
+		"/C/Users/brandon.kahre/Documents/GitHub/Twig",
+		"/C/Users/brandon.kahre/Documents/GitHub/raintpl3",
+		"/M/lib",
+		"/N/html",
+		"/M/",
+		"/C/Users/brandon.kahre/Documents/sherpa-vm"
 	],
-	"last_window_id": 1,
+	"last_window_id": 489,
 	"settings":
 	{
-	},
-	"windows":
-	[
+		"new_window_height": 982.0,
+		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"vc_fol",
+						"vc_folder_name"
+					],
+					[
+						"folder",
+						"folder_name"
+					],
+					[
+						"loo",
+						"lookupIsoCountryCode"
+					],
+					[
+						"vclod",
+						"vcloud"
+					],
+					[
+						"server",
+						"SERVER_LOOKUP"
+					],
+					[
+						"strcmp",
+						"strcasecmp"
+					],
+					[
+						"vce_",
+						"vcenter_folder_id"
+					],
+					[
+						"vcloud",
+						"vcloudum_rules"
+					],
+					[
+						"ser",
+						"service_content"
+					],
+					[
+						"vclou",
+						"vcloudum_rules"
+					],
+					[
+						"vcloudum_rul",
+						"vcloudum_rule_id"
+					],
+					[
+						"vcen",
+						"vcenter_folder_id"
+					],
+					[
+						"vcent",
+						"vcenter_folders"
+					],
+					[
+						"vcenter_fol",
+						"vcenter_folder_id"
+					],
+					[
+						"F",
+						"FOLDER_PROPERTIES"
+					],
+					[
+						"pro",
+						"PROPERTIES"
+					],
+					[
+						"vir",
+						"virtualMachine"
+					],
+					[
+						"VS",
+						"VSPHERE_PASSWORD"
+					],
+					[
+						"service",
+						"service_instance"
+					],
+					[
+						"VSP",
+						"VSPHERE_PASSWORD"
+					],
+					[
+						"js",
+						"json_decode"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"custom",
+						"customer"
+					],
+					[
+						"getCustom",
+						"getCustomer"
+					],
+					[
+						"cust",
+						"customers"
+					],
+					[
+						"simple",
+						"simplexml_load_string"
+					],
+					[
+						"respo",
+						"response"
+					],
+					[
+						"_re",
+						"_response_body"
+					],
+					[
+						"V",
+						"VCLOUD_API_ENDPOINT"
+					],
+					[
+						"_addHe",
+						"_addHeader"
+					],
+					[
+						"usage",
+						"usage_query"
+					],
+					[
+						"strt",
+						"strtotime"
+					],
+					[
+						"Cloud",
+						"CloudOverages"
+					],
+					[
+						"bill",
+						"billing_id"
+					],
+					[
+						"comp",
+						"company_fetch"
+					],
+					[
+						"excel",
+						"excel_sheet"
+					],
+					[
+						"companY",
+						"company_result"
+					],
+					[
+						"submi",
+						"submit-container"
+					],
+					[
+						"DB",
+						"DB_RESULT_OBJECT"
+					],
+					[
+						"Data",
+						"Database_PostgreSQL"
+					],
+					[
+						"bil",
+						"billingids_fetch"
+					],
+					[
+						"num",
+						"number_format"
+					],
+					[
+						"par",
+						"parseFloat"
+					],
+					[
+						"select",
+						"selector"
+					],
+					[
+						"modifi",
+						"modified_values"
+					],
+					[
+						"dia",
+						"dialog_content"
+					],
+					[
+						"proposal",
+						"proposal_type"
+					],
+					[
+						"dial",
+						"dialog"
+					],
+					[
+						"mysql_num",
+						"mysql_num_rows"
+					],
+					[
+						"seleced",
+						"selected"
+					],
+					[
+						"loc",
+						"location_item_id"
+					],
+					[
+						"location",
+						"location_center_id"
+					],
+					[
+						"preve",
+						"preventDefault"
+					],
+					[
+						"prop",
+						"proposal_types"
+					],
+					[
+						"proposa",
+						"proposal_type"
+					],
+					[
+						"po",
+						"proposal_types"
+					],
+					[
+						"propo",
+						"proposal"
+					],
+					[
+						"close",
+						"closest"
+					],
+					[
+						"cur",
+						"curvepoints_fetch"
+					],
+					[
+						"livc",
+						"livc-target"
+					],
+					[
+						"livc-",
+						"livc-target"
+					],
+					[
+						"hand",
+						"handleQuantityChange"
+					],
+					[
+						"taget",
+						"target_curve_data"
+					],
+					[
+						"target",
+						"target_curve_data"
+					],
+					[
+						"series",
+						"series_data"
+					],
+					[
+						"lookup",
+						"lookupItemCurveData"
+					],
+					[
+						"curve_id",
+						"location_item_volume_curve_id"
+					],
+					[
+						"location_item_id",
+						"location_item_volume_curve_id"
+					],
+					[
+						"loc_id",
+						"location_item_volume_curve_id"
+					],
+					[
+						"mysql_in",
+						"mysql_insert_id"
+					],
+					[
+						"location_item",
+						"location_item_id"
+					],
+					[
+						"graph",
+						"graph_css"
+					],
+					[
+						"gra",
+						"graph_container"
+					],
+					[
+						"err",
+						"error_message"
+					],
+					[
+						"current",
+						"current_item"
+					],
+					[
+						"curre",
+						"current_item"
+					],
+					[
+						"itemo",
+						"itemcost_select"
+					],
+					[
+						"mysql_erro",
+						"mysql_error"
+					],
+					[
+						"itemc",
+						"itemcost_fetch"
+					],
+					[
+						"total_cred",
+						"total_credit_count"
+					],
+					[
+						"total_bud",
+						"total_budget_amount"
+					],
+					[
+						"tota",
+						"total_credit_amount"
+					],
+					[
+						"budge",
+						"budget_amount"
+					],
+					[
+						"total_bu",
+						"total_budge_amount"
+					],
+					[
+						"htment",
+						"htmlentities"
+					],
+					[
+						"mar",
+						"market_credits_select"
+					],
+					[
+						"per",
+						"period"
+					],
+					[
+						"bd",
+						"budget_amount"
+					],
+					[
+						"recet",
+						"recent_credit_fetch"
+					],
+					[
+						"univ",
+						"universal_ids"
+					],
+					[
+						"recent",
+						"recent_credits_result"
+					],
+					[
+						"mysql_er",
+						"mysql_error"
+					],
+					[
+						"rece",
+						"recent_credits_select"
+					],
+					[
+						"report",
+						"report_type"
+					],
+					[
+						"rep",
+						"report_type"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"PHPEX",
+						"PHPExcelReader"
+					],
+					[
+						"over_id",
+						"overage_adjustment_reason_id"
+					],
+					[
+						"overage",
+						"overage_adjustment_reasons"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"volu",
+						"volume_curves"
+					],
+					[
+						"Volu",
+						"VolumeCurves"
+					],
+					[
+						"item",
+						"current_item"
+					],
+					[
+						"pricing",
+						"pricing_levels"
+					],
+					[
+						"prp",
+						"proposal_discount"
+					],
+					[
+						"retr",
+						"retail_price"
+					],
+					[
+						"propos",
+						"proposal_price"
+					],
+					[
+						"chart_",
+						"chart_toggle"
+					],
+					[
+						"chart_series",
+						"chart_series_id"
+					],
+					[
+						"chart_ser",
+						"chart_series_data"
+					],
+					[
+						"contr",
+						"contract_pricing_level"
+					],
+					[
+						"cont",
+						"contract_pricing_level"
+					],
+					[
+						"price",
+						"pricing_level"
+					],
+					[
+						"curve",
+						"curve_type"
+					],
+					[
+						"curve_",
+						"curve_data"
+					],
+					[
+						"save",
+						"saveItemCurveData"
+					],
+					[
+						"respn",
+						"responseArray"
+					],
+					[
+						"look",
+						"lookupItemCurveData"
+					],
+					[
+						"depend",
+						"dependItems"
+					],
+					[
+						"event",
+						"eventParams"
+					],
+					[
+						"editI",
+						"editItemForm"
+					],
+					[
+						"ele",
+						"eleArray"
+					],
+					[
+						"Loc",
+						"location_item_id"
+					],
+					[
+						"cn",
+						"console"
+					],
+					[
+						"response",
+						"responseArray"
+					],
+					[
+						"chart",
+						"chart_toggle"
+					],
+					[
+						"hide",
+						"hideVolumeCurveGraph"
+					],
+					[
+						"set",
+						"setVolumeCurveGraphItem"
+					]
 				]
 			},
-			"buffers":
-			[
-			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 68.0,
 				"selected_items":
 				[
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"duplicate",
+						"File: Duplicate"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"trail",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"Duplicate",
+						"File: Duplicate"
+					],
+					[
+						"post",
+						"Set Syntax: SQL (PostgreSQL)"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"ref",
+						"Side Bar: Refresh"
+					],
+					[
+						"refresh",
+						"Side Bar: Refresh"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"dupl",
+						"File: Duplicate"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"lint",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"show",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"syn:html",
+						"Set Syntax: HTML"
+					],
+					[
+						"close",
+						"Project: Close"
+					],
+					[
+						"revert",
+						"File: Revert"
+					],
+					[
+						"Dupli",
+						"File: Duplicate"
+					],
+					[
+						"error ",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"show error",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"synta SQL",
+						"Set Syntax: SQL"
+					],
+					[
+						"open file",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"reveal",
+						"File: Reveal"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"file re",
+						"File: Reveal"
+					],
+					[
+						"toggle open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"edit",
+						"Project: Edit"
+					],
+					[
+						"dup",
+						"File: Duplicate"
+					],
+					[
+						"proj:ed",
+						"Project: Edit"
+					],
+					[
+						"pje:e",
+						"Project: Edit"
+					],
+					[
+						"project",
+						"Project: Edit"
+					],
+					[
+						"snipp",
+						"Snippet: Object key — key: \"value\""
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"high",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"highli",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn:php",
+						"Set Syntax: PHP"
+					],
+					[
+						"trailing",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"mini",
+						"View: Toggle Minimap"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"list packages",
+						"Package Control: List Packages"
+					],
+					[
+						"syntax php",
+						"Set Syntax: PHP"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					]
 				],
-				"width": 0.0
+				"width": 514.0
 			},
 			"console":
 			{
-				"height": 0.0
+				"height": 600.0
 			},
 			"distraction_free":
 			{
@@ -42,23 +791,318 @@
 			},
 			"file_history":
 			[
+				"/C/Users/brandon.kahre/Documents/Project Files/PROJ-554 Cloud Overages Metered Usage/PROJ-554 schema.psql",
+				"/C/Users/brandon.kahre/Desktop/PROJ-554 schema.psql",
+				"/C/Users/brandon.kahre/Documents/Sublime Text Projects/pathfinder-vm.sublime-project",
+				"/P/scripts/vmware/vcloud_api_usage_rules.php",
+				"/P/alerts/index.php",
+				"/P/includes/classes/Upload.php",
+				"/M/schema/PROJ-704.sql",
+				"/M/schema/PROJ-673_PATHFINDER.psql",
+				"/P/includes/classes/Rest/Rest.php",
+				"/P/scripts/vmware/vsphere_api_folders.php",
+				"/C/Users/brandon.kahre/Desktop/vsphere_api_test - ALL VMs.php",
+				"/P/scripts/vmware/vsphere_api_test.php",
+				"/C/Users/brandon.kahre/AppData/Local/Temp/api_report.psql",
+				"/P/site_config.php",
+				"/P/scripts/vmware/classes/RestClient.php",
+				"/P/includes/classes/Rest/Request.php",
+				"/P/includes/classes/Rest/Piton.php",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Packages/User/Nil.sublime-theme",
+				"/C/Users/brandon.kahre/AppData/Local/Temp/api_report-2.psql",
+				"/C/Users/brandon.kahre/AppData/Local/Temp/api_report-1.psql",
+				"/P/scripts/vmware/classes/VCloudApi.php",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Packages/User/Monokai Soda.tmTheme",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/P/includes/classes/Vmwarephp/Service.php",
+				"/C/Users/brandon.kahre/AppData/Local/Temp/Temp1_ewsdl2php.zip/ewsdl2php/wsdl2php.php",
+				"/C/Users/brandon.kahre/AppData/Local/Temp/Temp1_ewsdl2php.zip/ewsdl2php/EasyWsdl2PHP.php",
+				"/P/includes/classes/Vmwarephp/SoapClient.php",
+				"/P/includes/classes/Vmwarephp/Exception/CannotCreateSoapClient.php",
+				"/C/Users/brandon.kahre/Desktop/vsphere_api_test - ALL Virtual Machines.php",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+				"/P/scripts/vcloud_api_usage_rules.php",
+				"/P/cloud/device_vm_xhr.php",
+				"/P/scripts/alert_overdue.php",
+				"/P/javascript/device_vm_tab_2.js",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/P/cloud/index.php",
+				"/P/cloud/gen_vm_cpu_graph.php",
+				"/P/smarty_templates/device_vm_info_body.tpl",
+				"/P/bv_constants.php",
+				"/M/schema/DEV-156401.sql",
+				"/M/html/_includes/templates/devel/research_cloud_overages.tpl",
+				"/M/html/_includes/classes/CloudOverages.php",
+				"/M/html/devel/research_cloud_overages.php",
+				"/M/html/devel/default.php",
+				"/M/cron/metered_overages_cloud.php",
+				"/M/cron/corrupt_dedupe_report.php",
+				"/M/html/billing/css/credits.css",
+				"/M/html/exhibita/css/credits.css",
+				"/M/html/_includes/templates/exhibita/credits_default.tpl",
+				"/M/html/_includes/templates/exhibita/credits_edit.tpl",
+				"/M/html/exhibita/credits_default.php",
+				"/M/html/devel/delete_billing_id.php",
+				"/M/html/devel/info.php",
+				"/M/html/billing/overage_approval.php",
+				"/M/html/GMs/overages_combined.php",
+				"/M/html/exhibita/review_overages.php",
+				"/M/schema/PROJ-673.sql",
+				"/M/etc/configuration.php",
+				"/M/html/billing/ajax/combined_export.php",
+				"/M/html/billing/overages_export.php",
+				"/M/html/GMs/ajax/combined_export.php",
+				"/M/html/GMs/overages_export.php",
+				"/M/html/_includes/javascript/gms_overages_combined.js",
+				"/M/html/exhibita/ajax/combined_export.php",
+				"/M/html/exhibita/overages_export.php",
+				"/M/html/_includes/javascript/exhibita_review_overages.js",
+				"/M/html/billing/overage_rollback.php",
+				"/M/html/_includes/classes/VMWare.php",
+				"/N/tests/Core/Enum/MessageSeverityEnumTest.php",
+				"/N/tests/Service/ErrorLog/LoggerTest.php",
+				"/M/html/metered_overages_cloud.php",
+				"/M/html/_includes/classes/Credit/Credit.php",
+				"/M/html/_includes/classes/Database/PostgreSQL.php",
+				"/M/cron/backup_email_reports.php",
+				"/M/cron/rebuild_serive_summary.php",
+				"/M/html/devel/import_boca.php",
+				"/M/cron/new_bw_billing_fll.php",
+				"/M/cron/new_bw_billing.php",
+				"/M/html/bandwidth/bandwidth_policies.php",
+				"/M/html/storage/overages.php",
+				"/M/html/devel/new_bw_billing_fll.php",
+				"/M/html/GMs/ajax/load_bandwidth_overages.php",
+				"/M/html/billing/default.php",
+				"/M/html/_includes/classes/Service/Changes.php",
+				"/M/html/devel/curve_update.php",
+				"/M/html/billing/port_info.php",
+				"/M/html/_includes/javascript/edit_proposal.js",
+				"/M/html/_includes/templates/footer.tpl",
+				"/M/html/exhibita/ajax/edit_item_options.php",
+				"/M/html/_includes/templates/exhibita/edit.tpl",
+				"/M/html/_includes/classes/contract.php",
+				"/M/html/exhibita/edit.php",
+				"/M/html/_includes/classes/item.php",
+				"/M/html/_includes/functions/standard_page.php",
+				"/M/html/exhibita/default.php",
+				"/C/Users/brandon.kahre/Documents/Sublime Text Projects/sherpa-vm.sublime-project",
+				"/M/html/billing/credits_pending_action.php",
+				"/M/html/_includes/classes/Credit/Search/Search.php",
+				"/C/Users/BRANDO~1.KAH/AppData/Local/Temp/fbtmp/sherpa_stg.dev.peak10.com/exhibita/edit.php",
+				"/M/html/_includes/javascript/item_volume_curves_exhibita.js",
+				"/M/html/_includes/javascript/item_volume_curves_common.js",
+				"/M/html/_includes/auth.php",
+				"/M/html/exhibita/ajax/volume_curves.php",
+				"/M/html/_includes/classes/location.php",
+				"/M/html/exhibita/ajax/item_locations.php",
+				"/M/html/_includes/templates/inventory/inventory_line.tpl",
+				"/M/html/_includes/templates/exhibita/edit_item.tpl",
+				"/M/html/exhibita/view.php",
+				"/M/html/_includes/templates/exhibita/view_proposal.tpl",
+				"/M/html/_includes/classes/company.php",
+				"/M/html/_includes/templates/exhibita/cust_info.tpl",
+				"/M/html/exhibita/cust_info.php",
+				"/M/html/_includes/javascript/view_proposal.js",
+				"/M/html/reports/ajax/signed_contracts.php",
+				"/M/html/_includes/classes/VolumeCurves/Curve/Curve.php",
+				"/M/html/_includes/classes/VolumeCurves/VolumeCurves.php",
+				"/M/html/default.php",
+				"/M/html/exhibita/admin/volume_curve.php",
+				"/M/html/_includes/classes/Algorithim/Interpolation/Interpolation.php",
+				"/M/cron/volume_curves_api_rebuild.php",
+				"/M/html/_includes/classes/PitonCurl/PitonCurl.php",
+				"/M/html/tasks/admin/confirm_complete.php",
+				"/M/html/_includes/footer.php",
+				"/M/html/exhibita/admin/item.php",
+				"/M/html/_includes/skins/v04/style.css",
+				"/M/html/cifs/admin/item.php",
+				"/M/html/exhibita/admin/volume_curve_bulk_upload.php"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
 				"height": 0.0,
 				"where_history":
 				[
+					"<Project>",
+					"<open files>",
+					"<Project>",
+					"<open files>",
+					"<Project>",
+					"<open files>",
+					"<project>,-lib/*",
+					"*.css,-lib/*",
+					"<Project>,-lib/*",
+					"<Project>,-/lib/",
+					"<Project>",
+					"*.php, *.tpl",
+					"*.php",
+					"*.*",
+					"*.php",
+					"*.tpl",
+					"*.*",
+					"*.php",
+					"*.css",
+					"*.php",
+					"*.tpl",
+					"<Project>",
+					"<open files>",
+					"<Project>",
+					"<Project>, *Credits*",
+					"<Project>",
+					"<Project>, *Credits*",
+					"<Project>",
+					"<Project>, *credit*",
+					"<Project>",
+					"<Project>,credits*",
+					"<Project>",
+					"<open files>",
+					"<Open Files>",
+					"<Project>",
+					"<open files>",
+					"",
+					"<Project>",
+					"M:\\html,-.svn"
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"SERVER_LOOKUP",
+					" 	",
+					"$info",
+					"$folder_name",
+					"$folder->",
+					"$folder",
+					"SERVER_LOOKUP",
+					"var_dump",
+					"( '",
+					"><",
+					"customer_name",
+					"vcloud_make_customer_name",
+					"vcloud_get_folder_name",
+					"execute",
+					"exit",
+					"case '",
+					":",
+					"$folder",
+					"UPDATE",
+					"vcenter_folders",
+					"SERVER_LOOKUP",
+					"$folder->getReferenceId( )",
+					"$folder->parent->getReferenceId( )",
+					"$folder->parent->getReferenceType( )",
+					" : 'NULL')",
+					"vcenter_id",
+					"VCloudApi",
+					"insert_counter",
+					"rule_value",
+					"$folder->",
+					"(string)$f",
+					"$rule",
+					"rule",
+					"		$SERVER_LOOKUP[ (int)$server->vcServerID ] = (string)$server->host;\n",
+					"SERVER_LOOKUP",
+					"Error",
+					"retrieving",
+					"sherpa2.countries",
+					"vSphere folders",
+					"vcrule_delete",
+					"rule",
+					"=>",
+					"($",
+					"()",
+					"SERVER_LOOKUP",
+					"lookupIsoCountryCode",
+					"$country",
+					"$customer_name",
+					"$folder->billing_id",
+					"$customer",
+					"$customer_id",
+					"hostname",
+					"  . ' because customer creation failed'",
+					"$rule",
+					"trigger_error",
+					"is_array",
+					" : 'NULL')",
+					"getData",
+					"=>",
+					"   ",
+					"\"",
+					"billing_id",
+					"rule",
+					"_rules",
+					"rule",
+					"$rule",
+					"vcrule_",
+					"FOLDER_PROPERTIES",
+					"tolower",
+					"int",
+					"[0]",
+					"$customer_name",
+					"vcServerID",
+					"server",
+					"vcenter_folder_id",
+					"vcServerID",
+					"_setUrl",
+					"_getUrl",
+					"' . VSPHERE_HOSTNAME . '",
+					"customers",
+					"_response_body",
+					"getResponseInfo",
+					"_response_info",
+					"group",
+					"group_id",
+					"vSphere",
+					"vcfolder_update",
+					"_makeStringForPostgresArray",
+					"status",
+					"SQL_INSERT_LIMIT",
+					"5",
+					"3",
+					"\"",
+					"seq_vcenter_folder_id",
+					"seq_vcloudum_rule_id",
+					"seq_vcenter_folder_id",
+					"seq_id_api_report_type",
+					"NEW.date_updated NOW",
+					"vcenter_folders",
+					"api_report",
+					"trigger_error",
+					"vcenters",
+					"BV_MAIN_DB",
+					"execute",
+					"query",
+					"     , ",
+					"[0]",
+					"FALSE === is_null",
+					"folder_type",
+					"_makeStringForPostgresArray",
+					"$ARRAY",
+					"$STUFF",
+					"' )",
+					"quote",
+					", TRUE",
+					", FALSE",
+					"$vcenter['",
+					"root_folder",
+					" ",
+					"(",
+					"\"",
+					"vSphereSoapClient",
+					"vcenter_vms",
+					"vcenters",
+					"100",
+					"64",
+					"100",
+					"vclum_rule_id"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -66,6 +1110,12 @@
 				"regex": false,
 				"replace_history":
 				[
+					"\\t",
+					"$3-$1-$2",
+					"%1-%2-",
+					"$1-$2-",
+					"|@rtrim:\"0\"|@rtrim:\".\"",
+					"@rtrim:\"0.\""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -73,21 +1123,13 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 39.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 36.0
 			},
 			"layout":
 			{
@@ -112,10 +1154,13 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "320 115 640 502 0 0 1280 778 ",
+			"output.sftp":
+			{
+				"height": 238.0
+			},
 			"replace":
 			{
-				"height": 0.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -123,31 +1168,3021 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"vmware/vcloud",
+						"scripts/vmware/vcloud_api_usage_rules.php"
+					],
+					[
+						"restclient",
+						"scripts/vmware/classes/RestClient.php"
+					],
+					[
+						"class/vcl",
+						"scripts/vmware/classes/VCloudApi.php"
+					],
+					[
+						"site_config",
+						"site_config.php"
+					],
+					[
+						"vcloud",
+						"scripts/vmware/vcloud_api_usage_rules.php"
+					],
+					[
+						"vmware/service",
+						"includes/classes/Vmwarephp/Service.php"
+					],
+					[
+						"service",
+						"includes/classes/Vmwarephp/Service.php"
+					],
+					[
+						"propertycollec",
+						"includes/classes/Vmwarephp/Extensions/PropertyCollector.php"
+					],
+					[
+						"soap",
+						"includes/classes/Vmwarephp/SoapClient.php"
+					],
+					[
+						"class/vmwarephpp/",
+						"includes/classes/Vmwarephp/Exception/CannotCreateSoapClient.php"
+					],
+					[
+						"gn_vm_cpu_graph",
+						"cloud/gen_vm_cpu_graph.php"
+					],
+					[
+						"cloud/index",
+						"cloud/index.php"
+					],
+					[
+						"java/device_vm_tab_2",
+						"javascript/device_vm_tab_2.js"
+					],
+					[
+						"device_vm_body",
+						"smarty_templates/device_vm_info_body.tpl"
+					],
+					[
+						"cloud/devi_xhr",
+						"cloud/device_vm_xhr.php"
+					],
+					[
+						"javascript/peakgrp",
+						"javascript/peakgraphs.js"
+					],
+					[
+						"cron/metered",
+						"cron/metered_overages_cloud.php"
+					],
+					[
+						"devel/default",
+						"html/devel/default.php"
+					],
+					[
+						"billing/combined_",
+						"html/billing/ajax/combined_export.php"
+					],
+					[
+						"cron/meter",
+						"cron/metered_overages_cloud.php"
+					],
+					[
+						"css/credit",
+						"html/exhibita/css/credits.css"
+					],
+					[
+						"cloud",
+						"html/_includes/classes/CloudOverages.php"
+					],
+					[
+						"meterd",
+						"cron/metered_overages_cloud.php"
+					],
+					[
+						"exh/over",
+						"html/exhibita/review_overages.php"
+					],
+					[
+						"gm/over_comi",
+						"html/GMs/overages_combined.php"
+					],
+					[
+						"billing/overageap",
+						"html/billing/overage_approval.php"
+					],
+					[
+						"devl/curve_update",
+						"html/devel/curve_update.php"
+					],
+					[
+						"class/contract",
+						"html/_includes/classes/contract.php"
+					],
+					[
+						"overage_rollback",
+						"html/billing/overage_rollback.php"
+					],
+					[
+						"billing/ajax/combined",
+						"html/billing/ajax/combined_export.php"
+					],
+					[
+						"ajax/combined",
+						"html/GMs/ajax/combined_export.php"
+					],
+					[
+						"java/gms_over",
+						"html/_includes/javascript/gms_overages_combined.js"
+					],
+					[
+						"gm/overage_com",
+						"html/GMs/overages_combined.php"
+					],
+					[
+						"html/reports/ajax/signed_on",
+						"html/reports/ajax/signed_contracts.php"
+					],
+					[
+						"class/credit",
+						"html/_includes/classes/Credit/Credit.php"
+					],
+					[
+						"class/vmware",
+						"html/_includes/classes/VMWare.php"
+					],
+					[
+						"ajax/combined_export",
+						"html/GMs/ajax/combined_export.php"
+					],
+					[
+						"gm/overage_expor",
+						"html/GMs/overages_export.php"
+					],
+					[
+						"overages_export",
+						"html/billing/overages_export.php"
+					],
+					[
+						"javascript/gms_",
+						"html/_includes/javascript/gms_overages_combined.js"
+					],
+					[
+						"billing/overage",
+						"html/billing/overage_approval.php"
+					],
+					[
+						"exh/overage",
+						"html/exhibita/review_overages.php"
+					],
+					[
+						"billing/overage_app",
+						"html/billing/overage_approval.php"
+					],
+					[
+						"gms/overage_com.php",
+						"html/GMs/overages_combined.php"
+					],
+					[
+						"band_overage",
+						"html/GMs/ajax/load_bandwidth_overages.php"
+					],
+					[
+						"bill/deful",
+						"html/billing/default.php"
+					],
+					[
+						"credit.php",
+						"html/_includes/classes/Credit/Credit.php"
+					],
+					[
+						"java/propo",
+						"html/_includes/javascript/edit_proposal.js"
+					],
+					[
+						"javasc/",
+						"html/_includes/javascript/edit_proposal.js"
+					],
+					[
+						"class/item.php",
+						"html/_includes/classes/item.php"
+					],
+					[
+						"edit",
+						"html/exhibita/edit.php"
+					],
+					[
+						"edit.php",
+						"html/exhibita/edit.php"
+					],
+					[
+						"templates/footer",
+						"html/_includes/templates/footer.tpl"
+					],
+					[
+						"page",
+						"html/_includes/functions/standard_page.php"
+					],
+					[
+						"credi/sear",
+						"html/_includes/classes/Credit/Search/Search.php"
+					],
+					[
+						"credit/search",
+						"html/_includes/classes/Credit/Search/Search.php"
+					],
+					[
+						"bill/credits_pend",
+						"html/billing/credits_pending_action.php"
+					],
+					[
+						"credits_pending",
+						"html/billing/credits_pending_action.php"
+					],
+					[
+						"java/volum",
+						"html/_includes/javascript/item_volume_curves_exhibita.js"
+					],
+					[
+						"java/volume",
+						"html/_includes/javascript/item_volume_curves_common.js"
+					],
+					[
+						"java/edit_prop",
+						"html/_includes/javascript/edit_proposal.js"
+					],
+					[
+						"_inclu/auth",
+						"html/_includes/auth.php"
+					],
+					[
+						"class/location",
+						"html/_includes/classes/location.php"
+					],
+					[
+						"java/volu",
+						"html/_includes/javascript/item_volume_curves_exhibita.js"
+					],
+					[
+						"class/contr",
+						"html/_includes/classes/contract.php"
+					],
+					[
+						"class/item",
+						"html/_includes/classes/item.php"
+					],
+					[
+						"inv/inv_line",
+						"html/_includes/templates/inventory/inventory_line.tpl"
+					],
+					[
+						"exh/edit_item",
+						"html/_includes/templates/exhibita/edit_item.tpl"
+					],
+					[
+						"ex/edi.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"exh/edit",
+						"html/exhibita/edit.php"
+					],
+					[
+						"edit.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"class/company",
+						"html/_includes/classes/company.php"
+					],
+					[
+						"exh/cust_info",
+						"html/exhibita/cust_info.php"
+					],
+					[
+						"exh/view_pro.tpl",
+						"html/_includes/templates/exhibita/view_proposal.tpl"
+					],
+					[
+						"classes/company",
+						"html/_includes/classes/company.php"
+					],
+					[
+						"java/edit_pr",
+						"html/_includes/javascript/edit_proposal.js"
+					],
+					[
+						"java/vie",
+						"html/_includes/javascript/view_proposal.js"
+					],
+					[
+						"exi/view_prop.tp",
+						"html/_includes/templates/exhibita/view_proposal.tpl"
+					],
+					[
+						"exh/view.php",
+						"html/exhibita/view.php"
+					],
+					[
+						"exhi/edit.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"reports/ajax/signed_",
+						"html/reports/ajax/signed_contracts.php"
+					],
+					[
+						"volumec/cur",
+						"html/_includes/classes/VolumeCurves/Curve/Curve.php"
+					],
+					[
+						"ajax/vlume",
+						"html/exhibita/ajax/volume_curves.php"
+					],
+					[
+						"html/defult",
+						"html/default.php"
+					],
+					[
+						"admin/volu",
+						"html/exhibita/admin/volume_curve.php"
+					],
+					[
+						"algo/inter",
+						"html/_includes/classes/Algorithim/Interpolation/Interpolation.php"
+					],
+					[
+						"piton",
+						"html/_includes/classes/PitonCurl/PitonCurl.php"
+					],
+					[
+						"interpolation",
+						"html/_includes/classes/Algorithim/Interpolation/Interpolation.php"
+					],
+					[
+						"templates/footer.tpl",
+						"html/_includes/templates/footer.tpl"
+					],
+					[
+						"admin/volume",
+						"html/exhibita/admin/volume_curve.php"
+					],
+					[
+						"_includes/footer",
+						"html/_includes/footer.php"
+					],
+					[
+						"page.php",
+						"html/_includes/functions/standard_page.php"
+					],
+					[
+						"skins/04",
+						"html/_includes/skins/v04/style.css"
+					],
+					[
+						"exh/admin/item.php",
+						"html/exhibita/admin/item.php"
+					],
+					[
+						"exh/admin/item.ph",
+						"html/exhibita/admin/item.php"
+					],
+					[
+						"admin/item.php",
+						"html/cifs/admin/item.php"
+					],
+					[
+						"exh/edit_item.tpl",
+						"html/_includes/templates/exhibita/edit_item.tpl"
+					],
+					[
+						"exh/edit.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"skins/v04",
+						"html/_includes/skins/v04/style.css"
+					],
+					[
+						"exh/price_",
+						"html/exhibita/price_list.php"
+					],
+					[
+						"volumecurves.php",
+						"html/_includes/classes/VolumeCurves/VolumeCurves.php"
+					],
+					[
+						"admin/volume_php",
+						"html/exhibita/admin/volume_curve_bulk_upload.php"
+					],
+					[
+						"ex/edit.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"js/item_vol",
+						"html/_includes/javascript/item_volume_curves_exhibita.js"
+					],
+					[
+						"js/volume",
+						"html/_includes/javascript/item_volume_curves_common.js"
+					],
+					[
+						"docusign/",
+						"html/_includes/classes/DocuSign/DocuSign.php"
+					],
+					[
+						"cron/",
+						"cron/credits_docusign_check.php"
+					],
+					[
+						"dbconn.php",
+						"html/_includes/dbconn.php"
+					],
+					[
+						"iton",
+						"html/_includes/classes/PitonCurl/PitonCurl.php"
+					],
+					[
+						"volumecu/cur",
+						"html/_includes/classes/VolumeCurves/Curve/Curve.php"
+					],
+					[
+						"admin/volume_bulk",
+						"html/exhibita/admin/volume_curve_bulk_upload.php"
+					],
+					[
+						"classes/volume",
+						"html/_includes/classes/VolumeCurves/VolumeCurves.php"
+					],
+					[
+						"templ/exh/credit",
+						"html/_includes/templates/exhibita/credits_default.tpl"
+					],
+					[
+						"admin/volume.tpl",
+						"html/_includes/templates/exhibita/admin/volume_curve.tpl"
+					],
+					[
+						"dmin/volume",
+						"html/exhibita/admin/volume_curve.php"
+					],
+					[
+						"item_volume_comm",
+						"html/_includes/javascript/item_volume_curves_common.js"
+					],
+					[
+						"javascript/curves",
+						"html/_includes/javascript/item_volume_curves_exhibita.js"
+					],
+					[
+						"exh/ajax/edit_va",
+						"html/exhibita/ajax/edit_validation.php"
+					],
+					[
+						"eadmin/deful",
+						"html/exhibita/admin/default.php"
+					],
+					[
+						"olumecurv",
+						"html/_includes/classes/VolumeCurves/VolumeCurves.php"
+					],
+					[
+						"admin/vol.tpl",
+						"html/_includes/templates/exhibita/admin/volume_curve_bulk_upload.tpl"
+					],
+					[
+						"admin/vlo",
+						"html/exhibita/admin/volume_curve_bulk_upload.php"
+					],
+					[
+						"docusign.tpl",
+						"html/_includes/templates/exhibita/docusign_proposal.tpl"
+					],
+					[
+						"exh/tpl",
+						"html/_includes/templates/exhibita/docusign_proposal.tpl"
+					],
+					[
+						"exh/ajax/validat",
+						"html/exhibita/ajax/edit_validation.php"
+					],
+					[
+						"edit_prop.js",
+						"html/_includes/javascript/edit_proposal.js"
+					],
+					[
+						"exh/edi.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"reports/ajax/provi",
+						"html/reports/ajax/provisioning.php"
+					]
 				],
 				"width": 0.0
 			},
 			"select_project":
 			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"peak1",
+						"/C/Users/brandon.kahre/Documents/Sublime Text Projects/peak10-api-vm.sublime-project"
+					],
+					[
+						"peak",
+						"/C/Users/brandon.kahre/Documents/Sublime Text Projects/peak10-api-vm.sublime-project"
+					],
+					[
+						"",
+						"/C/Users/brandon.kahre/Documents/Sublime Text Projects/sherpa-vm #2.sublime-project"
+					],
+					[
+						"sher",
+						"/C/Users/brandon.kahre/Documents/Sublime Text Projects/sherpa-vm.sublime-project"
+					],
+					[
+						"api",
+						"/C/Users/brandon.kahre/Documents/Sublime Text Projects/peak10-api-vm.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 185.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 592.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"vc_fol",
+						"vc_folder_name"
+					],
+					[
+						"folder",
+						"folder_name"
+					],
+					[
+						"loo",
+						"lookupIsoCountryCode"
+					],
+					[
+						"vclod",
+						"vcloud"
+					],
+					[
+						"server",
+						"SERVER_LOOKUP"
+					],
+					[
+						"strcmp",
+						"strcasecmp"
+					],
+					[
+						"vce_",
+						"vcenter_folder_id"
+					],
+					[
+						"vcloud",
+						"vcloudum_rules"
+					],
+					[
+						"ser",
+						"service_content"
+					],
+					[
+						"vclou",
+						"vcloudum_rules"
+					],
+					[
+						"vcloudum_rul",
+						"vcloudum_rule_id"
+					],
+					[
+						"vcen",
+						"vcenter_folder_id"
+					],
+					[
+						"vcent",
+						"vcenter_folders"
+					],
+					[
+						"vcenter_fol",
+						"vcenter_folder_id"
+					],
+					[
+						"F",
+						"FOLDER_PROPERTIES"
+					],
+					[
+						"pro",
+						"PROPERTIES"
+					],
+					[
+						"vir",
+						"virtualMachine"
+					],
+					[
+						"VS",
+						"VSPHERE_PASSWORD"
+					],
+					[
+						"service",
+						"service_instance"
+					],
+					[
+						"VSP",
+						"VSPHERE_PASSWORD"
+					],
+					[
+						"js",
+						"json_decode"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"custom",
+						"customer"
+					],
+					[
+						"getCustom",
+						"getCustomer"
+					],
+					[
+						"cust",
+						"customers"
+					],
+					[
+						"simple",
+						"simplexml_load_string"
+					],
+					[
+						"respo",
+						"response"
+					],
+					[
+						"_re",
+						"_response_body"
+					],
+					[
+						"V",
+						"VCLOUD_API_ENDPOINT"
+					],
+					[
+						"_addHe",
+						"_addHeader"
+					],
+					[
+						"usage",
+						"usage_query"
+					],
+					[
+						"strt",
+						"strtotime"
+					],
+					[
+						"Cloud",
+						"CloudOverages"
+					],
+					[
+						"bill",
+						"billing_id"
+					],
+					[
+						"comp",
+						"company_fetch"
+					],
+					[
+						"excel",
+						"excel_sheet"
+					],
+					[
+						"companY",
+						"company_result"
+					],
+					[
+						"submi",
+						"submit-container"
+					],
+					[
+						"DB",
+						"DB_RESULT_OBJECT"
+					],
+					[
+						"Data",
+						"Database_PostgreSQL"
+					],
+					[
+						"bil",
+						"billingids_fetch"
+					],
+					[
+						"num",
+						"number_format"
+					],
+					[
+						"par",
+						"parseFloat"
+					],
+					[
+						"select",
+						"selector"
+					],
+					[
+						"modifi",
+						"modified_values"
+					],
+					[
+						"dia",
+						"dialog_content"
+					],
+					[
+						"proposal",
+						"proposal_type"
+					],
+					[
+						"dial",
+						"dialog"
+					],
+					[
+						"mysql_num",
+						"mysql_num_rows"
+					],
+					[
+						"seleced",
+						"selected"
+					],
+					[
+						"loc",
+						"location_item_id"
+					],
+					[
+						"location",
+						"location_center_id"
+					],
+					[
+						"preve",
+						"preventDefault"
+					],
+					[
+						"prop",
+						"proposal_types"
+					],
+					[
+						"proposa",
+						"proposal_type"
+					],
+					[
+						"po",
+						"proposal_types"
+					],
+					[
+						"propo",
+						"proposal"
+					],
+					[
+						"close",
+						"closest"
+					],
+					[
+						"cur",
+						"curvepoints_fetch"
+					],
+					[
+						"livc",
+						"livc-target"
+					],
+					[
+						"livc-",
+						"livc-target"
+					],
+					[
+						"hand",
+						"handleQuantityChange"
+					],
+					[
+						"taget",
+						"target_curve_data"
+					],
+					[
+						"target",
+						"target_curve_data"
+					],
+					[
+						"series",
+						"series_data"
+					],
+					[
+						"lookup",
+						"lookupItemCurveData"
+					],
+					[
+						"curve_id",
+						"location_item_volume_curve_id"
+					],
+					[
+						"location_item_id",
+						"location_item_volume_curve_id"
+					],
+					[
+						"loc_id",
+						"location_item_volume_curve_id"
+					],
+					[
+						"mysql_in",
+						"mysql_insert_id"
+					],
+					[
+						"location_item",
+						"location_item_id"
+					],
+					[
+						"graph",
+						"graph_css"
+					],
+					[
+						"gra",
+						"graph_container"
+					],
+					[
+						"err",
+						"error_message"
+					],
+					[
+						"current",
+						"current_item"
+					],
+					[
+						"curre",
+						"current_item"
+					],
+					[
+						"itemo",
+						"itemcost_select"
+					],
+					[
+						"mysql_erro",
+						"mysql_error"
+					],
+					[
+						"itemc",
+						"itemcost_fetch"
+					],
+					[
+						"total_cred",
+						"total_credit_count"
+					],
+					[
+						"total_bud",
+						"total_budget_amount"
+					],
+					[
+						"tota",
+						"total_credit_amount"
+					],
+					[
+						"budge",
+						"budget_amount"
+					],
+					[
+						"total_bu",
+						"total_budge_amount"
+					],
+					[
+						"htment",
+						"htmlentities"
+					],
+					[
+						"mar",
+						"market_credits_select"
+					],
+					[
+						"per",
+						"period"
+					],
+					[
+						"bd",
+						"budget_amount"
+					],
+					[
+						"recet",
+						"recent_credit_fetch"
+					],
+					[
+						"univ",
+						"universal_ids"
+					],
+					[
+						"recent",
+						"recent_credits_result"
+					],
+					[
+						"mysql_er",
+						"mysql_error"
+					],
+					[
+						"rece",
+						"recent_credits_select"
+					],
+					[
+						"report",
+						"report_type"
+					],
+					[
+						"rep",
+						"report_type"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"PHPEX",
+						"PHPExcelReader"
+					],
+					[
+						"over_id",
+						"overage_adjustment_reason_id"
+					],
+					[
+						"overage",
+						"overage_adjustment_reasons"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"volu",
+						"volume_curves"
+					],
+					[
+						"Volu",
+						"VolumeCurves"
+					],
+					[
+						"item",
+						"current_item"
+					],
+					[
+						"pricing",
+						"pricing_levels"
+					],
+					[
+						"prp",
+						"proposal_discount"
+					],
+					[
+						"retr",
+						"retail_price"
+					],
+					[
+						"propos",
+						"proposal_price"
+					],
+					[
+						"chart_",
+						"chart_toggle"
+					],
+					[
+						"chart_series",
+						"chart_series_id"
+					],
+					[
+						"chart_ser",
+						"chart_series_data"
+					],
+					[
+						"contr",
+						"contract_pricing_level"
+					],
+					[
+						"cont",
+						"contract_pricing_level"
+					],
+					[
+						"price",
+						"pricing_level"
+					],
+					[
+						"curve",
+						"curve_type"
+					],
+					[
+						"curve_",
+						"curve_data"
+					],
+					[
+						"save",
+						"saveItemCurveData"
+					],
+					[
+						"respn",
+						"responseArray"
+					],
+					[
+						"look",
+						"lookupItemCurveData"
+					],
+					[
+						"depend",
+						"dependItems"
+					],
+					[
+						"event",
+						"eventParams"
+					],
+					[
+						"editI",
+						"editItemForm"
+					],
+					[
+						"ele",
+						"eleArray"
+					],
+					[
+						"Loc",
+						"location_item_id"
+					],
+					[
+						"cn",
+						"console"
+					],
+					[
+						"response",
+						"responseArray"
+					],
+					[
+						"chart",
+						"chart_toggle"
+					],
+					[
+						"hide",
+						"hideVolumeCurveGraph"
+					],
+					[
+						"set",
+						"setVolumeCurveGraphItem"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/P/scripts/vmware/vsphere_pull_folders.php",
+					"settings":
+					{
+						"buffer_size": 5393,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/P/scripts/vmware/vcloud_pull_rules.php",
+					"settings":
+					{
+						"buffer_size": 6722,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/P/scripts/vmware/vcloud_push_rules.php",
+					"settings":
+					{
+						"buffer_size": 9788,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/P/scripts/vmware_vcloud_vsphere_folders.php",
+					"settings":
+					{
+						"buffer_size": 11493,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/P/scripts/vmware/vcloud_api_usage_rules.php",
+					"settings":
+					{
+						"buffer_size": 2104,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/P/scripts/vmware/vcloud_api_wipe_rules.php",
+					"settings":
+					{
+						"buffer_size": 865,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 68.0,
+				"selected_items":
+				[
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"duplicate",
+						"File: Duplicate"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"trail",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"Duplicate",
+						"File: Duplicate"
+					],
+					[
+						"post",
+						"Set Syntax: SQL (PostgreSQL)"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"ref",
+						"Side Bar: Refresh"
+					],
+					[
+						"refresh",
+						"Side Bar: Refresh"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"dupl",
+						"File: Duplicate"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"lint",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"show",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"syn:html",
+						"Set Syntax: HTML"
+					],
+					[
+						"close",
+						"Project: Close"
+					],
+					[
+						"revert",
+						"File: Revert"
+					],
+					[
+						"Dupli",
+						"File: Duplicate"
+					],
+					[
+						"error ",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"show error",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"synta SQL",
+						"Set Syntax: SQL"
+					],
+					[
+						"open file",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"reveal",
+						"File: Reveal"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"file re",
+						"File: Reveal"
+					],
+					[
+						"toggle open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"edit",
+						"Project: Edit"
+					],
+					[
+						"dup",
+						"File: Duplicate"
+					],
+					[
+						"proj:ed",
+						"Project: Edit"
+					],
+					[
+						"pje:e",
+						"Project: Edit"
+					],
+					[
+						"project",
+						"Project: Edit"
+					],
+					[
+						"snipp",
+						"Snippet: Object key — key: \"value\""
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"high",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"highli",
+						"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn:php",
+						"Set Syntax: PHP"
+					],
+					[
+						"trailing",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"mini",
+						"View: Toggle Minimap"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"list packages",
+						"Package Control: List Packages"
+					],
+					[
+						"syntax php",
+						"Set Syntax: PHP"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 514.0
+			},
+			"console":
+			{
+				"height": 600.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/brandon.kahre/Documents/Project Files/PROJ-554 Cloud Overages Metered Usage/PROJ-554 schema.psql",
+				"/C/Users/brandon.kahre/Desktop/PROJ-554 schema.psql",
+				"/C/Users/brandon.kahre/Documents/Sublime Text Projects/pathfinder-vm.sublime-project",
+				"/P/scripts/vmware/vcloud_api_usage_rules.php",
+				"/P/alerts/index.php",
+				"/P/includes/classes/Upload.php",
+				"/M/schema/PROJ-704.sql",
+				"/M/schema/PROJ-673_PATHFINDER.psql",
+				"/P/includes/classes/Rest/Rest.php",
+				"/P/scripts/vmware/vsphere_api_folders.php",
+				"/C/Users/brandon.kahre/Desktop/vsphere_api_test - ALL VMs.php",
+				"/P/scripts/vmware/vsphere_api_test.php",
+				"/C/Users/brandon.kahre/AppData/Local/Temp/api_report.psql",
+				"/P/site_config.php",
+				"/P/scripts/vmware/classes/RestClient.php",
+				"/P/includes/classes/Rest/Request.php",
+				"/P/includes/classes/Rest/Piton.php",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Packages/User/Nil.sublime-theme",
+				"/C/Users/brandon.kahre/AppData/Local/Temp/api_report-2.psql",
+				"/C/Users/brandon.kahre/AppData/Local/Temp/api_report-1.psql",
+				"/P/scripts/vmware/classes/VCloudApi.php",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Packages/User/Monokai Soda.tmTheme",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/P/includes/classes/Vmwarephp/Service.php",
+				"/C/Users/brandon.kahre/AppData/Local/Temp/Temp1_ewsdl2php.zip/ewsdl2php/wsdl2php.php",
+				"/C/Users/brandon.kahre/AppData/Local/Temp/Temp1_ewsdl2php.zip/ewsdl2php/EasyWsdl2PHP.php",
+				"/P/includes/classes/Vmwarephp/SoapClient.php",
+				"/P/includes/classes/Vmwarephp/Exception/CannotCreateSoapClient.php",
+				"/C/Users/brandon.kahre/Desktop/vsphere_api_test - ALL Virtual Machines.php",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+				"/P/scripts/vcloud_api_usage_rules.php",
+				"/P/cloud/device_vm_xhr.php",
+				"/P/scripts/alert_overdue.php",
+				"/P/javascript/device_vm_tab_2.js",
+				"/C/Users/brandon.kahre/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/P/cloud/index.php",
+				"/P/cloud/gen_vm_cpu_graph.php",
+				"/P/smarty_templates/device_vm_info_body.tpl",
+				"/P/bv_constants.php",
+				"/M/schema/DEV-156401.sql",
+				"/M/html/_includes/templates/devel/research_cloud_overages.tpl",
+				"/M/html/_includes/classes/CloudOverages.php",
+				"/M/html/devel/research_cloud_overages.php",
+				"/M/html/devel/default.php",
+				"/M/cron/metered_overages_cloud.php",
+				"/M/cron/corrupt_dedupe_report.php",
+				"/M/html/billing/css/credits.css",
+				"/M/html/exhibita/css/credits.css",
+				"/M/html/_includes/templates/exhibita/credits_default.tpl",
+				"/M/html/_includes/templates/exhibita/credits_edit.tpl",
+				"/M/html/exhibita/credits_default.php",
+				"/M/html/devel/delete_billing_id.php",
+				"/M/html/devel/info.php",
+				"/M/html/billing/overage_approval.php",
+				"/M/html/GMs/overages_combined.php",
+				"/M/html/exhibita/review_overages.php",
+				"/M/schema/PROJ-673.sql",
+				"/M/etc/configuration.php",
+				"/M/html/billing/ajax/combined_export.php",
+				"/M/html/billing/overages_export.php",
+				"/M/html/GMs/ajax/combined_export.php",
+				"/M/html/GMs/overages_export.php",
+				"/M/html/_includes/javascript/gms_overages_combined.js",
+				"/M/html/exhibita/ajax/combined_export.php",
+				"/M/html/exhibita/overages_export.php",
+				"/M/html/_includes/javascript/exhibita_review_overages.js",
+				"/M/html/billing/overage_rollback.php",
+				"/M/html/_includes/classes/VMWare.php",
+				"/N/tests/Core/Enum/MessageSeverityEnumTest.php",
+				"/N/tests/Service/ErrorLog/LoggerTest.php",
+				"/M/html/metered_overages_cloud.php",
+				"/M/html/_includes/classes/Credit/Credit.php",
+				"/M/html/_includes/classes/Database/PostgreSQL.php",
+				"/M/cron/backup_email_reports.php",
+				"/M/cron/rebuild_serive_summary.php",
+				"/M/html/devel/import_boca.php",
+				"/M/cron/new_bw_billing_fll.php",
+				"/M/cron/new_bw_billing.php",
+				"/M/html/bandwidth/bandwidth_policies.php",
+				"/M/html/storage/overages.php",
+				"/M/html/devel/new_bw_billing_fll.php",
+				"/M/html/GMs/ajax/load_bandwidth_overages.php",
+				"/M/html/billing/default.php",
+				"/M/html/_includes/classes/Service/Changes.php",
+				"/M/html/devel/curve_update.php",
+				"/M/html/billing/port_info.php",
+				"/M/html/_includes/javascript/edit_proposal.js",
+				"/M/html/_includes/templates/footer.tpl",
+				"/M/html/exhibita/ajax/edit_item_options.php",
+				"/M/html/_includes/templates/exhibita/edit.tpl",
+				"/M/html/_includes/classes/contract.php",
+				"/M/html/exhibita/edit.php",
+				"/M/html/_includes/classes/item.php",
+				"/M/html/_includes/functions/standard_page.php",
+				"/M/html/exhibita/default.php",
+				"/C/Users/brandon.kahre/Documents/Sublime Text Projects/sherpa-vm.sublime-project",
+				"/M/html/billing/credits_pending_action.php",
+				"/M/html/_includes/classes/Credit/Search/Search.php",
+				"/C/Users/BRANDO~1.KAH/AppData/Local/Temp/fbtmp/sherpa_stg.dev.peak10.com/exhibita/edit.php",
+				"/M/html/_includes/javascript/item_volume_curves_exhibita.js",
+				"/M/html/_includes/javascript/item_volume_curves_common.js",
+				"/M/html/_includes/auth.php",
+				"/M/html/exhibita/ajax/volume_curves.php",
+				"/M/html/_includes/classes/location.php",
+				"/M/html/exhibita/ajax/item_locations.php",
+				"/M/html/_includes/templates/inventory/inventory_line.tpl",
+				"/M/html/_includes/templates/exhibita/edit_item.tpl",
+				"/M/html/exhibita/view.php",
+				"/M/html/_includes/templates/exhibita/view_proposal.tpl",
+				"/M/html/_includes/classes/company.php",
+				"/M/html/_includes/templates/exhibita/cust_info.tpl",
+				"/M/html/exhibita/cust_info.php",
+				"/M/html/_includes/javascript/view_proposal.js",
+				"/M/html/reports/ajax/signed_contracts.php",
+				"/M/html/_includes/classes/VolumeCurves/Curve/Curve.php",
+				"/M/html/_includes/classes/VolumeCurves/VolumeCurves.php",
+				"/M/html/default.php",
+				"/M/html/exhibita/admin/volume_curve.php",
+				"/M/html/_includes/classes/Algorithim/Interpolation/Interpolation.php",
+				"/M/cron/volume_curves_api_rebuild.php",
+				"/M/html/_includes/classes/PitonCurl/PitonCurl.php",
+				"/M/html/tasks/admin/confirm_complete.php",
+				"/M/html/_includes/footer.php",
+				"/M/html/exhibita/admin/item.php",
+				"/M/html/_includes/skins/v04/style.css",
+				"/M/html/cifs/admin/item.php",
+				"/M/html/exhibita/admin/volume_curve_bulk_upload.php"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"<Project>",
+					"<open files>",
+					"<Project>",
+					"<open files>",
+					"<Project>",
+					"<open files>",
+					"<project>,-lib/*",
+					"*.css,-lib/*",
+					"<Project>,-lib/*",
+					"<Project>,-/lib/",
+					"<Project>",
+					"*.php, *.tpl",
+					"*.php",
+					"*.*",
+					"*.php",
+					"*.tpl",
+					"*.*",
+					"*.php",
+					"*.css",
+					"*.php",
+					"*.tpl",
+					"<Project>",
+					"<open files>",
+					"<Project>",
+					"<Project>, *Credits*",
+					"<Project>",
+					"<Project>, *Credits*",
+					"<Project>",
+					"<Project>, *credit*",
+					"<Project>",
+					"<Project>,credits*",
+					"<Project>",
+					"<open files>",
+					"<Open Files>",
+					"<Project>",
+					"<open files>",
+					"",
+					"<Project>",
+					"M:\\html,-.svn"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"SERVER_LOOKUP",
+					" 	",
+					"$info",
+					"$folder_name",
+					"$folder->",
+					"$folder",
+					"SERVER_LOOKUP",
+					"var_dump",
+					"( '",
+					"><",
+					"customer_name",
+					"vcloud_make_customer_name",
+					"vcloud_get_folder_name",
+					"execute",
+					"exit",
+					"case '",
+					":",
+					"$folder",
+					"UPDATE",
+					"vcenter_folders",
+					"SERVER_LOOKUP",
+					"$folder->getReferenceId( )",
+					"$folder->parent->getReferenceId( )",
+					"$folder->parent->getReferenceType( )",
+					" : 'NULL')",
+					"vcenter_id",
+					"VCloudApi",
+					"insert_counter",
+					"rule_value",
+					"$folder->",
+					"(string)$f",
+					"$rule",
+					"rule",
+					"		$SERVER_LOOKUP[ (int)$server->vcServerID ] = (string)$server->host;\n",
+					"SERVER_LOOKUP",
+					"Error",
+					"retrieving",
+					"sherpa2.countries",
+					"vSphere folders",
+					"vcrule_delete",
+					"rule",
+					"=>",
+					"($",
+					"()",
+					"SERVER_LOOKUP",
+					"lookupIsoCountryCode",
+					"$country",
+					"$customer_name",
+					"$folder->billing_id",
+					"$customer",
+					"$customer_id",
+					"hostname",
+					"  . ' because customer creation failed'",
+					"$rule",
+					"trigger_error",
+					"is_array",
+					" : 'NULL')",
+					"getData",
+					"=>",
+					"   ",
+					"\"",
+					"billing_id",
+					"rule",
+					"_rules",
+					"rule",
+					"$rule",
+					"vcrule_",
+					"FOLDER_PROPERTIES",
+					"tolower",
+					"int",
+					"[0]",
+					"$customer_name",
+					"vcServerID",
+					"server",
+					"vcenter_folder_id",
+					"vcServerID",
+					"_setUrl",
+					"_getUrl",
+					"' . VSPHERE_HOSTNAME . '",
+					"customers",
+					"_response_body",
+					"getResponseInfo",
+					"_response_info",
+					"group",
+					"group_id",
+					"vSphere",
+					"vcfolder_update",
+					"_makeStringForPostgresArray",
+					"status",
+					"SQL_INSERT_LIMIT",
+					"5",
+					"3",
+					"\"",
+					"seq_vcenter_folder_id",
+					"seq_vcloudum_rule_id",
+					"seq_vcenter_folder_id",
+					"seq_id_api_report_type",
+					"NEW.date_updated NOW",
+					"vcenter_folders",
+					"api_report",
+					"trigger_error",
+					"vcenters",
+					"BV_MAIN_DB",
+					"execute",
+					"query",
+					"     , ",
+					"[0]",
+					"FALSE === is_null",
+					"folder_type",
+					"_makeStringForPostgresArray",
+					"$ARRAY",
+					"$STUFF",
+					"' )",
+					"quote",
+					", TRUE",
+					", FALSE",
+					"$vcenter['",
+					"root_folder",
+					" ",
+					"(",
+					"\"",
+					"vSphereSoapClient",
+					"vcenter_vms",
+					"vcenters",
+					"100",
+					"64",
+					"100",
+					"vclum_rule_id"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\t",
+					"$3-$1-$2",
+					"%1-%2-",
+					"$1-$2-",
+					"|@rtrim:\"0\"|@rtrim:\".\"",
+					"@rtrim:\"0.\""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/P/scripts/vmware/vsphere_pull_folders.php",
+							"settings":
+							{
+								"buffer_size": 5393,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										5393,
+										5393
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": false,
+										"box-sizing": false,
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": false,
+										"duplicate-background-images": false,
+										"duplicate-properties": false,
+										"empty-rules": false,
+										"errors": false,
+										"fallback-colors": false,
+										"floats": false,
+										"font-faces": false,
+										"font-sizes": false,
+										"gradients": false,
+										"ids": false,
+										"import": false,
+										"important": false,
+										"known-properties": false,
+										"outline-none": false,
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": false,
+										"shorthand": false,
+										"text-indent": false,
+										"unique-headings": false,
+										"universal-selector": false,
+										"vendor-prefix": false,
+										"zero-units": false
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jslint",
+									"jshint_options":
+									{
+										"asi": true
+									},
+									"jslint_options":
+									{
+										"sloppy": true,
+										"white": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"javascript": "C:\\Program Files (x86)\\nodejs\\node.exe",
+										"php": "C:\\Program Files (x86)\\PHP\\php.exe"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1954.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/P/scripts/vmware/vcloud_pull_rules.php",
+							"settings":
+							{
+								"buffer_size": 6722,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6722,
+										6722
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": false,
+										"box-sizing": false,
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": false,
+										"duplicate-background-images": false,
+										"duplicate-properties": false,
+										"empty-rules": false,
+										"errors": false,
+										"fallback-colors": false,
+										"floats": false,
+										"font-faces": false,
+										"font-sizes": false,
+										"gradients": false,
+										"ids": false,
+										"import": false,
+										"important": false,
+										"known-properties": false,
+										"outline-none": false,
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": false,
+										"shorthand": false,
+										"text-indent": false,
+										"unique-headings": false,
+										"universal-selector": false,
+										"vendor-prefix": false,
+										"zero-units": false
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jslint",
+									"jshint_options":
+									{
+										"asi": true
+									},
+									"jslint_options":
+									{
+										"sloppy": true,
+										"white": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"javascript": "C:\\Program Files (x86)\\nodejs\\node.exe",
+										"php": "C:\\Program Files (x86)\\PHP\\php.exe"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP Customized Snippets/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3044.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/P/scripts/vmware/vcloud_push_rules.php",
+							"settings":
+							{
+								"buffer_size": 9788,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												6687,
+												6705
+											]
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										1241,
+										1241
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": false,
+										"box-sizing": false,
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": false,
+										"duplicate-background-images": false,
+										"duplicate-properties": false,
+										"empty-rules": false,
+										"errors": false,
+										"fallback-colors": false,
+										"floats": false,
+										"font-faces": false,
+										"font-sizes": false,
+										"gradients": false,
+										"ids": false,
+										"import": false,
+										"important": false,
+										"known-properties": false,
+										"outline-none": false,
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": false,
+										"shorthand": false,
+										"text-indent": false,
+										"unique-headings": false,
+										"universal-selector": false,
+										"vendor-prefix": false,
+										"zero-units": false
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jslint",
+									"jshint_options":
+									{
+										"asi": true
+									},
+									"jslint_options":
+									{
+										"sloppy": true,
+										"white": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"javascript": "C:\\Program Files (x86)\\nodejs\\node.exe",
+										"php": "C:\\Program Files (x86)\\PHP\\php.exe"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP Customized Snippets/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 4570.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/P/scripts/vmware_vcloud_vsphere_folders.php",
+							"settings":
+							{
+								"buffer_size": 11493,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": false,
+										"box-sizing": false,
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": false,
+										"duplicate-background-images": false,
+										"duplicate-properties": false,
+										"empty-rules": false,
+										"errors": false,
+										"fallback-colors": false,
+										"floats": false,
+										"font-faces": false,
+										"font-sizes": false,
+										"gradients": false,
+										"ids": false,
+										"import": false,
+										"important": false,
+										"known-properties": false,
+										"outline-none": false,
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": false,
+										"shorthand": false,
+										"text-indent": false,
+										"unique-headings": false,
+										"universal-selector": false,
+										"vendor-prefix": false,
+										"zero-units": false
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jslint",
+									"jshint_options":
+									{
+										"asi": true
+									},
+									"jslint_options":
+									{
+										"sloppy": true,
+										"white": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"javascript": "C:\\Program Files (x86)\\nodejs\\node.exe",
+										"php": "C:\\Program Files (x86)\\PHP\\php.exe"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP Customized Snippets/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/P/scripts/vmware/vcloud_api_usage_rules.php",
+							"settings":
+							{
+								"buffer_size": 2104,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										112,
+										112
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": false,
+										"box-sizing": false,
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": false,
+										"duplicate-background-images": false,
+										"duplicate-properties": false,
+										"empty-rules": false,
+										"errors": false,
+										"fallback-colors": false,
+										"floats": false,
+										"font-faces": false,
+										"font-sizes": false,
+										"gradients": false,
+										"ids": false,
+										"import": false,
+										"important": false,
+										"known-properties": false,
+										"outline-none": false,
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": false,
+										"shorthand": false,
+										"text-indent": false,
+										"unique-headings": false,
+										"universal-selector": false,
+										"vendor-prefix": false,
+										"zero-units": false
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jslint",
+									"jshint_options":
+									{
+										"asi": true
+									},
+									"jslint_options":
+									{
+										"sloppy": true,
+										"white": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"javascript": "C:\\Program Files (x86)\\nodejs\\node.exe",
+										"php": "C:\\Program Files (x86)\\PHP\\php.exe"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP Customized Snippets/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/P/scripts/vmware/vcloud_api_wipe_rules.php",
+							"settings":
+							{
+								"buffer_size": 865,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										865,
+										865
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": false,
+										"box-sizing": false,
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": false,
+										"duplicate-background-images": false,
+										"duplicate-properties": false,
+										"empty-rules": false,
+										"errors": false,
+										"fallback-colors": false,
+										"floats": false,
+										"font-faces": false,
+										"font-sizes": false,
+										"gradients": false,
+										"ids": false,
+										"import": false,
+										"important": false,
+										"known-properties": false,
+										"outline-none": false,
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": false,
+										"shorthand": false,
+										"text-indent": false,
+										"unique-headings": false,
+										"universal-selector": false,
+										"vendor-prefix": false,
+										"zero-units": false
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jslint",
+									"jshint_options":
+									{
+										"asi": true
+									},
+									"jslint_options":
+									{
+										"sloppy": true,
+										"white": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": false,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"javascript": "C:\\Program Files (x86)\\nodejs\\node.exe",
+										"php": "C:\\Program Files (x86)\\PHP\\php.exe"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP Customized Snippets/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.sftp":
+			{
+				"height": 238.0
+			},
+			"position": "0,2,3,-1,-1,-1,-1,534,2045,-506,2653",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"vmware/vcloud",
+						"scripts/vmware/vcloud_api_usage_rules.php"
+					],
+					[
+						"restclient",
+						"scripts/vmware/classes/RestClient.php"
+					],
+					[
+						"class/vcl",
+						"scripts/vmware/classes/VCloudApi.php"
+					],
+					[
+						"site_config",
+						"site_config.php"
+					],
+					[
+						"vcloud",
+						"scripts/vmware/vcloud_api_usage_rules.php"
+					],
+					[
+						"vmware/service",
+						"includes/classes/Vmwarephp/Service.php"
+					],
+					[
+						"service",
+						"includes/classes/Vmwarephp/Service.php"
+					],
+					[
+						"propertycollec",
+						"includes/classes/Vmwarephp/Extensions/PropertyCollector.php"
+					],
+					[
+						"soap",
+						"includes/classes/Vmwarephp/SoapClient.php"
+					],
+					[
+						"class/vmwarephpp/",
+						"includes/classes/Vmwarephp/Exception/CannotCreateSoapClient.php"
+					],
+					[
+						"gn_vm_cpu_graph",
+						"cloud/gen_vm_cpu_graph.php"
+					],
+					[
+						"cloud/index",
+						"cloud/index.php"
+					],
+					[
+						"java/device_vm_tab_2",
+						"javascript/device_vm_tab_2.js"
+					],
+					[
+						"device_vm_body",
+						"smarty_templates/device_vm_info_body.tpl"
+					],
+					[
+						"cloud/devi_xhr",
+						"cloud/device_vm_xhr.php"
+					],
+					[
+						"javascript/peakgrp",
+						"javascript/peakgraphs.js"
+					],
+					[
+						"cron/metered",
+						"cron/metered_overages_cloud.php"
+					],
+					[
+						"devel/default",
+						"html/devel/default.php"
+					],
+					[
+						"billing/combined_",
+						"html/billing/ajax/combined_export.php"
+					],
+					[
+						"cron/meter",
+						"cron/metered_overages_cloud.php"
+					],
+					[
+						"css/credit",
+						"html/exhibita/css/credits.css"
+					],
+					[
+						"cloud",
+						"html/_includes/classes/CloudOverages.php"
+					],
+					[
+						"meterd",
+						"cron/metered_overages_cloud.php"
+					],
+					[
+						"exh/over",
+						"html/exhibita/review_overages.php"
+					],
+					[
+						"gm/over_comi",
+						"html/GMs/overages_combined.php"
+					],
+					[
+						"billing/overageap",
+						"html/billing/overage_approval.php"
+					],
+					[
+						"devl/curve_update",
+						"html/devel/curve_update.php"
+					],
+					[
+						"class/contract",
+						"html/_includes/classes/contract.php"
+					],
+					[
+						"overage_rollback",
+						"html/billing/overage_rollback.php"
+					],
+					[
+						"billing/ajax/combined",
+						"html/billing/ajax/combined_export.php"
+					],
+					[
+						"ajax/combined",
+						"html/GMs/ajax/combined_export.php"
+					],
+					[
+						"java/gms_over",
+						"html/_includes/javascript/gms_overages_combined.js"
+					],
+					[
+						"gm/overage_com",
+						"html/GMs/overages_combined.php"
+					],
+					[
+						"html/reports/ajax/signed_on",
+						"html/reports/ajax/signed_contracts.php"
+					],
+					[
+						"class/credit",
+						"html/_includes/classes/Credit/Credit.php"
+					],
+					[
+						"class/vmware",
+						"html/_includes/classes/VMWare.php"
+					],
+					[
+						"ajax/combined_export",
+						"html/GMs/ajax/combined_export.php"
+					],
+					[
+						"gm/overage_expor",
+						"html/GMs/overages_export.php"
+					],
+					[
+						"overages_export",
+						"html/billing/overages_export.php"
+					],
+					[
+						"javascript/gms_",
+						"html/_includes/javascript/gms_overages_combined.js"
+					],
+					[
+						"billing/overage",
+						"html/billing/overage_approval.php"
+					],
+					[
+						"exh/overage",
+						"html/exhibita/review_overages.php"
+					],
+					[
+						"billing/overage_app",
+						"html/billing/overage_approval.php"
+					],
+					[
+						"gms/overage_com.php",
+						"html/GMs/overages_combined.php"
+					],
+					[
+						"band_overage",
+						"html/GMs/ajax/load_bandwidth_overages.php"
+					],
+					[
+						"bill/deful",
+						"html/billing/default.php"
+					],
+					[
+						"credit.php",
+						"html/_includes/classes/Credit/Credit.php"
+					],
+					[
+						"java/propo",
+						"html/_includes/javascript/edit_proposal.js"
+					],
+					[
+						"javasc/",
+						"html/_includes/javascript/edit_proposal.js"
+					],
+					[
+						"class/item.php",
+						"html/_includes/classes/item.php"
+					],
+					[
+						"edit",
+						"html/exhibita/edit.php"
+					],
+					[
+						"edit.php",
+						"html/exhibita/edit.php"
+					],
+					[
+						"templates/footer",
+						"html/_includes/templates/footer.tpl"
+					],
+					[
+						"page",
+						"html/_includes/functions/standard_page.php"
+					],
+					[
+						"credi/sear",
+						"html/_includes/classes/Credit/Search/Search.php"
+					],
+					[
+						"credit/search",
+						"html/_includes/classes/Credit/Search/Search.php"
+					],
+					[
+						"bill/credits_pend",
+						"html/billing/credits_pending_action.php"
+					],
+					[
+						"credits_pending",
+						"html/billing/credits_pending_action.php"
+					],
+					[
+						"java/volum",
+						"html/_includes/javascript/item_volume_curves_exhibita.js"
+					],
+					[
+						"java/volume",
+						"html/_includes/javascript/item_volume_curves_common.js"
+					],
+					[
+						"java/edit_prop",
+						"html/_includes/javascript/edit_proposal.js"
+					],
+					[
+						"_inclu/auth",
+						"html/_includes/auth.php"
+					],
+					[
+						"class/location",
+						"html/_includes/classes/location.php"
+					],
+					[
+						"java/volu",
+						"html/_includes/javascript/item_volume_curves_exhibita.js"
+					],
+					[
+						"class/contr",
+						"html/_includes/classes/contract.php"
+					],
+					[
+						"class/item",
+						"html/_includes/classes/item.php"
+					],
+					[
+						"inv/inv_line",
+						"html/_includes/templates/inventory/inventory_line.tpl"
+					],
+					[
+						"exh/edit_item",
+						"html/_includes/templates/exhibita/edit_item.tpl"
+					],
+					[
+						"ex/edi.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"exh/edit",
+						"html/exhibita/edit.php"
+					],
+					[
+						"edit.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"class/company",
+						"html/_includes/classes/company.php"
+					],
+					[
+						"exh/cust_info",
+						"html/exhibita/cust_info.php"
+					],
+					[
+						"exh/view_pro.tpl",
+						"html/_includes/templates/exhibita/view_proposal.tpl"
+					],
+					[
+						"classes/company",
+						"html/_includes/classes/company.php"
+					],
+					[
+						"java/edit_pr",
+						"html/_includes/javascript/edit_proposal.js"
+					],
+					[
+						"java/vie",
+						"html/_includes/javascript/view_proposal.js"
+					],
+					[
+						"exi/view_prop.tp",
+						"html/_includes/templates/exhibita/view_proposal.tpl"
+					],
+					[
+						"exh/view.php",
+						"html/exhibita/view.php"
+					],
+					[
+						"exhi/edit.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"reports/ajax/signed_",
+						"html/reports/ajax/signed_contracts.php"
+					],
+					[
+						"volumec/cur",
+						"html/_includes/classes/VolumeCurves/Curve/Curve.php"
+					],
+					[
+						"ajax/vlume",
+						"html/exhibita/ajax/volume_curves.php"
+					],
+					[
+						"html/defult",
+						"html/default.php"
+					],
+					[
+						"admin/volu",
+						"html/exhibita/admin/volume_curve.php"
+					],
+					[
+						"algo/inter",
+						"html/_includes/classes/Algorithim/Interpolation/Interpolation.php"
+					],
+					[
+						"piton",
+						"html/_includes/classes/PitonCurl/PitonCurl.php"
+					],
+					[
+						"interpolation",
+						"html/_includes/classes/Algorithim/Interpolation/Interpolation.php"
+					],
+					[
+						"templates/footer.tpl",
+						"html/_includes/templates/footer.tpl"
+					],
+					[
+						"admin/volume",
+						"html/exhibita/admin/volume_curve.php"
+					],
+					[
+						"_includes/footer",
+						"html/_includes/footer.php"
+					],
+					[
+						"page.php",
+						"html/_includes/functions/standard_page.php"
+					],
+					[
+						"skins/04",
+						"html/_includes/skins/v04/style.css"
+					],
+					[
+						"exh/admin/item.php",
+						"html/exhibita/admin/item.php"
+					],
+					[
+						"exh/admin/item.ph",
+						"html/exhibita/admin/item.php"
+					],
+					[
+						"admin/item.php",
+						"html/cifs/admin/item.php"
+					],
+					[
+						"exh/edit_item.tpl",
+						"html/_includes/templates/exhibita/edit_item.tpl"
+					],
+					[
+						"exh/edit.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"skins/v04",
+						"html/_includes/skins/v04/style.css"
+					],
+					[
+						"exh/price_",
+						"html/exhibita/price_list.php"
+					],
+					[
+						"volumecurves.php",
+						"html/_includes/classes/VolumeCurves/VolumeCurves.php"
+					],
+					[
+						"admin/volume_php",
+						"html/exhibita/admin/volume_curve_bulk_upload.php"
+					],
+					[
+						"ex/edit.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"js/item_vol",
+						"html/_includes/javascript/item_volume_curves_exhibita.js"
+					],
+					[
+						"js/volume",
+						"html/_includes/javascript/item_volume_curves_common.js"
+					],
+					[
+						"docusign/",
+						"html/_includes/classes/DocuSign/DocuSign.php"
+					],
+					[
+						"cron/",
+						"cron/credits_docusign_check.php"
+					],
+					[
+						"dbconn.php",
+						"html/_includes/dbconn.php"
+					],
+					[
+						"iton",
+						"html/_includes/classes/PitonCurl/PitonCurl.php"
+					],
+					[
+						"volumecu/cur",
+						"html/_includes/classes/VolumeCurves/Curve/Curve.php"
+					],
+					[
+						"admin/volume_bulk",
+						"html/exhibita/admin/volume_curve_bulk_upload.php"
+					],
+					[
+						"classes/volume",
+						"html/_includes/classes/VolumeCurves/VolumeCurves.php"
+					],
+					[
+						"templ/exh/credit",
+						"html/_includes/templates/exhibita/credits_default.tpl"
+					],
+					[
+						"admin/volume.tpl",
+						"html/_includes/templates/exhibita/admin/volume_curve.tpl"
+					],
+					[
+						"dmin/volume",
+						"html/exhibita/admin/volume_curve.php"
+					],
+					[
+						"item_volume_comm",
+						"html/_includes/javascript/item_volume_curves_common.js"
+					],
+					[
+						"javascript/curves",
+						"html/_includes/javascript/item_volume_curves_exhibita.js"
+					],
+					[
+						"exh/ajax/edit_va",
+						"html/exhibita/ajax/edit_validation.php"
+					],
+					[
+						"eadmin/deful",
+						"html/exhibita/admin/default.php"
+					],
+					[
+						"olumecurv",
+						"html/_includes/classes/VolumeCurves/VolumeCurves.php"
+					],
+					[
+						"admin/vol.tpl",
+						"html/_includes/templates/exhibita/admin/volume_curve_bulk_upload.tpl"
+					],
+					[
+						"admin/vlo",
+						"html/exhibita/admin/volume_curve_bulk_upload.php"
+					],
+					[
+						"docusign.tpl",
+						"html/_includes/templates/exhibita/docusign_proposal.tpl"
+					],
+					[
+						"exh/tpl",
+						"html/_includes/templates/exhibita/docusign_proposal.tpl"
+					],
+					[
+						"exh/ajax/validat",
+						"html/exhibita/ajax/edit_validation.php"
+					],
+					[
+						"edit_prop.js",
+						"html/_includes/javascript/edit_proposal.js"
+					],
+					[
+						"exh/edi.tpl",
+						"html/_includes/templates/exhibita/edit.tpl"
+					],
+					[
+						"reports/ajax/provi",
+						"html/reports/ajax/provisioning.php"
+					]
 				],
 				"width": 0.0
 			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"peak1",
+						"/C/Users/brandon.kahre/Documents/Sublime Text Projects/peak10-api-vm.sublime-project"
+					],
+					[
+						"peak",
+						"/C/Users/brandon.kahre/Documents/Sublime Text Projects/peak10-api-vm.sublime-project"
+					],
+					[
+						"",
+						"/C/Users/brandon.kahre/Documents/Sublime Text Projects/sherpa-vm #2.sublime-project"
+					],
+					[
+						"sher",
+						"/C/Users/brandon.kahre/Documents/Sublime Text Projects/sherpa-vm.sublime-project"
+					],
+					[
+						"api",
+						"/C/Users/brandon.kahre/Documents/Sublime Text Projects/peak10-api-vm.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_visible": false,
+			"side_bar_width": 185.0,
 			"status_bar_visible": true,
-			"window_id": 1,
-			"workspace_name": ""
+			"window_id": 489,
+			"workspace_name": "/C/Users/brandon.kahre/Documents/Sublime Text Projects/pathfinder-vm.sublime-project"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/C/Users/brandon.kahre/Documents/Sublime Text Projects/pathfinder-vm #2.sublime-project",
+			"/C/Users/brandon.kahre/Documents/Sublime Text Projects/pathfinder-vm.sublime-project",
+			"/C/Users/brandon.kahre/Documents/Sublime Text Projects/sherpa-vm #2.sublime-project",
+			"/C/Users/brandon.kahre/Documents/Sublime Text Projects/peak10-api-vm.sublime-project",
+			"/C/Users/brandon.kahre/Documents/Sublime Text Projects/sherpa-vm.sublime-project",
+			"/C/Users/brandon.kahre/Documents/Sublime Text Projects/peak10-etc-vm.sublime-project",
+			"/C/Users/brandon.kahre/Documents/Sublime Text Projects/peak10-api-vm #2.sublime-project"
 		]
 	}
 }

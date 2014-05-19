@@ -1,0 +1,6 @@
+2013-12-03 09:59:52
+Traceback (most recent call last):
+  File ".\sublime_plugin.py", line 337, in run_
+  File "./sftp/commands.py", line 2966, in run
+  File "./sftp/commands.py", line 134, in create_default_config
+IOError: [Errno 13] Permission denied: u'M:\\sftp-config.json'

@@ -1,0 +1,3 @@
+{
+    "diff_command": ["C:\\Program Files (x86)\\WinMerge\\WinMergeU.exe", "%1$s", "%2$s"]
+}

@@ -1,0 +1,41 @@
+{
+
+    /*
+        Tooltips method:
+
+        "popup" - Uses Autocomplete popup for tooltips.
+        "panel" - Uses the output panel for tooltips.
+        "status" - Uses the status bar for tooltips (was the default).
+    */
+    "codeintel_tooltips": "status",
+
+    /*
+        Insert functions snippets.
+    */
+    "codeintel_snippets": false,
+
+    /*
+        Defines a configuration for each language.
+    */
+    "codeintel_config": {
+        "Python": {
+            "env": {
+                /*
+                "PATH": "/usr/local/bin:/usr/local/sbin:$PATH",
+                "PYTHONPATH": "/usr/local/lib/python2.7/site-packages:/usr/local/lib/python:$PYTHONPATH"
+                */
+            }
+        },
+        "JavaScript": {
+            "javascriptExtraPaths": [],
+            "codeintel_scan_files_in_project": false,
+            "codeintel_max_recursive_dir_depth": 2
+        },
+        "PHP": {
+            "phpExtraPaths": [],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_max_recursive_dir_depth": 5
+        }
+    }
+
+}

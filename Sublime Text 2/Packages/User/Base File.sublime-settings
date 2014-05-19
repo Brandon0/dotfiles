@@ -1,0 +1,16 @@
+{
+	// Add a '[description]' placeholder for the param tag?
+	"jsdocs_param_description": true,
+
+	// Whether there should be blank lines added between the description line, and between tags of different types.
+	"jsdocs_spacer_between_sections": true,
+
+	// Whether each section should be indented to the same level, or indent each one individually.
+	"jsdocs_per_section_indent": true,
+
+	// If set to true, primitives such as "Number" and "String" will be documented as "number" and "string".
+	"jsdocs_lower_case_primitives": true,
+
+	// If set to true, primitives such as "boolean" and "integer" will be shortened to "bool" and "int".
+	"jsdocs_short_primitives": true
+}

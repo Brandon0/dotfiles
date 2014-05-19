@@ -1,16 +1,2 @@
 [
-
-    { "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
-    { "keys": ["ctrl+1"], "command": "goto_documentation" },
-
-    { "keys": ["ctrl+f12"],
-        "command": "side_bar_open_in_browser" ,
-        "args":{"paths":[], "type":"testing"}
-    },
-    { "keys": ["alt+f12"],
-        "command": "side_bar_open_in_browser",
-        "args":{"paths":[], "type":"production"}
-    },
-    { "keys": ["super+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} }
-
 ]

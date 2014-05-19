@@ -1,17 +1,21 @@
 {
 	"installed_packages":
 	[
-		"AdvancedNewFile",
+		"Alignment",
 		"ApacheConf.tmLanguage",
 		"DocBlockr",
-		"google-search",
+		"Emmet",
+		"Google Search",
 		"Goto Documentation",
-		"jQuery",
+		"Highlighter",
 		"Package Control",
-		"Prefixr",
+		"PostgreSQL Syntax Highlighting",
+		"SFTP",
 		"SideBarEnhancements",
+		"Smarty",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"Theme - Nil",
 		"Theme - Soda",
 		"TrailingSpaces"
 	]
