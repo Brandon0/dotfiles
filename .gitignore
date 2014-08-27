@@ -14,8 +14,10 @@ Thumbs.db
 .Trashes
 
 # Sublime Text 2s
-*.cache
-*.last-run
-*.sublime_license
-*.sublime_session
-SideBarEnhancements.json
+/Sublime\ Text\ 2/**/*.cache
+/Sublime\ Text\ 2/**/*.last-run
+/Sublime\ Text\ 2/**/*.log
+/Sublime\ Text\ 2/**/*.sublime_license
+/Sublime\ Text\ 2/**/*.sublime_session
+/Sublime\ Text\ 2/Backup
+/Sublime\ Text\ 2/Settings/SideBarEnhancements.json
