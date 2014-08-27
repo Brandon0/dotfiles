@@ -116,12 +116,12 @@
 	},
 
 	{ "keys": ["tab"], "command": "insert_best_completion", "args": {"default": "\t", "exact": true} },
-	{ "keys": ["tab"], "command": "insert_best_completion", "args": {"default": "\t", "exact": false},
+	/*{ "keys": ["tab"], "command": "insert_best_completion", "args": {"default": "\t", "exact": false},
 		"context":
 		[
 			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
 		]
-	},
+	},*/
 	{ "keys": ["tab"], "command": "replace_completion_with_next_completion", "context":
 		[
 			{ "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },

@@ -1,13 +1,21 @@
 [
-    { "keys": ["f1"], "command": "goto_documentation" },
+	{ "keys": ["f1"], "command": "goto_documentation" },
 	{ "keys": ["shift+delete"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
 	{ "keys": ["ctrl+k","ctrl+m"], "command": "toggle_minimap" },
-    { "keys": ["ctrl+keypad0"], "command": "focus_side_bar" },
-    { "keys": ["ctrl+keypad_period"], "command": "focus_group", "args": { "group": 0 } },
+	{ "keys": ["ctrl+keypad0"], "command": "focus_side_bar" },
+	{ "keys": ["ctrl+keypad_period"], "command": "focus_group", "args": { "group": 0 } },
+	{ "keys": ["enter"], "command": "run_macro_file", "args": {"file": "Packages/User/Add Line in Braces.sublime-macro"}, "context":
+		[
+			{ "key": "setting.auto_indent", "operator": "equal", "operand": true },
+			{ "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true },
+			{ "key": "preceding_text", "operator": "regex_contains", "operand": "\\($", "match_all": true },
+			{ "key": "following_text", "operator": "regex_contains", "operand": "^\\)", "match_all": true }
+		]
+	},
 
 	{ "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
 
-    //tab navigation like Firefox
+	//tab navigation like Firefox
 	{ "keys": ["alt+1"], "command": "focus_group", "args": { "group": 0 } },
 	{ "keys": ["alt+2"], "command": "focus_group", "args": { "group": 1 } },
 	{ "keys": ["alt+3"], "command": "focus_group", "args": { "group": 2 } },
@@ -24,11 +32,11 @@
 	{ "keys": ["ctrl+9"], "command": "select_by_index", "args": { "index": 8 } },
 	{ "keys": ["ctrl+0"], "command": "select_by_index", "args": { "index": 9 } },
 
-    //SFTP
-    { "keys": ["ctrl+shift+u","ctrl+shift+u"], "command": "sftp_upload_file" },
-    { "keys": ["ctrl+f12"], "command": "side_bar_open_in_browser", "args": { "paths":[], "type":"testing"}},
-    { "keys": ["alt+f12"], "command": "side_bar_open_in_browser", "args": { "paths":[], "type":"production"}},
+	//SFTP
+	{ "keys": ["ctrl+shift+u","ctrl+shift+u"], "command": "sftp_upload_file" },
+	{ "keys": ["ctrl+f12"], "command": "side_bar_open_in_browser", "args": { "paths":[], "type":"testing"}},
+	{ "keys": ["alt+f12"], "command": "side_bar_open_in_browser", "args": { "paths":[], "type":"production"}},
 
-    //Google-Search
-    { "keys": ["ctrl+f1"], "command": "google_search" }
+	//Google-Search
+	{ "keys": ["ctrl+f1"], "command": "google_search" }
 ]

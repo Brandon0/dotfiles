@@ -3,20 +3,25 @@
 	[
 		"Alignment",
 		"ApacheConf.tmLanguage",
+		"CSS3_Syntax",
 		"DocBlockr",
 		"Emmet",
 		"Google Search",
 		"Goto Documentation",
 		"Highlighter",
+		"JavaScriptNext - ES6 Syntax",
 		"Package Control",
+		"PhpNamespace",
 		"PostgreSQL Syntax Highlighting",
+		"Sass",
+		"SCSS",
 		"SFTP",
 		"SideBarEnhancements",
 		"Smarty",
 		"SublimeCodeIntel",
-		"SublimeLinter",
 		"Theme - Nil",
 		"Theme - Soda",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Xdebug Client"
 	]
 }

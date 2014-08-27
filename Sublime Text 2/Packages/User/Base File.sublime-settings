@@ -1,9 +1,17 @@
 {
+	// Any additional boilerplate tags which should be added to each block. Should be an array of strings.
+	// Note that this only applies when a docblock is opened directly preceding a function.
+	// Tab points can be added by using snippet syntax, eg: ${1:default text}
+	"jsdocs_extra_tags": [
+		"@author Brandon Kahre <brandon.kahre@peak10.com>",
+		"@since ${1:{{date}}}"
+	],
+
 	// Add a '[description]' placeholder for the param tag?
 	"jsdocs_param_description": true,
 
 	// Whether there should be blank lines added between the description line, and between tags of different types.
-	"jsdocs_spacer_between_sections": true,
+	"jsdocs_spacer_between_sections": "after_description",
 
 	// Whether each section should be indented to the same level, or indent each one individually.
 	"jsdocs_per_section_indent": true,

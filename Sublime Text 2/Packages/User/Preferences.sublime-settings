@@ -22,16 +22,16 @@
 		".svn"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 11.0,
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"TrailingSpaces",
 		"SublimeCodeIntel",
 		"Vintage",
 		"SFTP",
-		"SQL",
 		"PHP",
 		"Emmet"
 	],
@@ -50,5 +50,6 @@
 	"trailing_spaces_highlight_color": "trailing_whitespace",
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
+	"wide_caret": true,
 	"word_wrap": false
 }
